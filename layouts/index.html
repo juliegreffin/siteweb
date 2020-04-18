@@ -1,10 +1,36 @@
 {{ partial "head" . }}
-<div class="container ws-container">
-  <div class="jumbotron rounded ws-jumbotron">
+<div class="container">
+  <div class="jumbotron rounded ws-jumbotron mb-4rem">
     <h1 class="display-5">{{ .Site.Title }}</h1>
   </div>
+  <div class="container mb-4rem">
+  <div class="row mb-4">
+    <div class="col-md-5 offset-md-1">
+      <img src="{{ .Site.BaseURL }}img/montain1.jpg" class="card-img-top" alt="..."> </img>
+    </div>
+    <div class="col-md-4">
+      <h3 class="card-title">Hello</h3>
+      <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+    </div>
+    </div>
+  </div>
+  <div class="row mb-3rem">
+    <div class="col-md-8">
+      <div class="bg-light rounded p-4">
+        <h4 class="font-italic">Hello</h4>
+        <p >Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+      </div>
+    </div>
+    <div class="col-md-4 border">
+    </div>
+  </div>
+  <div class="row">
   {{ range .FirstSection.Pages }}
+  <div class="col-md-8">
   {{ partial "card" . }}
+  </div>
   {{ end }}
+  </div>
+  </div>
 </div>
 {{ partial "foot" . }}
