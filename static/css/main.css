@@ -24,3 +24,14 @@ h1, h2, h3, h4 {
   padding: 10rem;
   background-color: #fff4eb;
 }
+
+footer {
+  padding: 2.5rem 0;
+  color: #999;
+  text-align: center;
+  background-color: #f9f9f9;
+}
+
+.copyright {
+  font-family: Arial, sans-serif;
+}
