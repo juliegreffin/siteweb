@@ -1,11 +1,10 @@
 <div class="row no-gutters rounded overflow-hidden flex-md-row mb-4 position-relative">
-  <div class="col-auto d-none d-lg-block">
-    <svg class="bd-placeholder-img" width="200" height="250" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="xMidYMid slice" focusable="false" role="img" aria-label="Placeholder: Thumbnail"><title>Placeholder</title><rect width="100%" height="100%" fill="#55595c"></rect><text x="50%" y="50%" fill="#eceeef" dy=".3em">Thumbnail</text></svg>
+  <div class="col-md-4 col-4 p-4">
+    <img src="{{ .Site.BaseURL}}/img/{{ .Params.image }}" class="card-img" alt="..."> </img>
   </div>
-  <div class="col p-4 d-flex flex-column position-static">
-    <strong class="d-inline-block mb-2 text-primary">World</strong>
+  <div class="col-md-8 col-8 p-4 d-flex flex-column position-static">
     <h3 class="mb-0">{{ .Title }}</h3>
-    <div class="mb-1 text-muted">{{ .Date.Format "02-01-2006" }}</div>
+    <div><a class="mb-1 text-muted">{{ .Date.Format "02-01-2006" }}</a>   <strong class="d-inline-block mb-2 text-primary">World</strong></div>
     <p class="card-text mb-auto">{{ .Summary }}</p>
     <a href="{{ .Permalink }}" class="stretched-link">Continue reading</a>
   </div>
