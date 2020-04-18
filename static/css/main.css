@@ -25,6 +25,10 @@ h1, h2, h3, h4 {
   background-color: #fff4eb;
 }
 
+article {
+  margin: 8rem;
+}
+
 footer {
   padding: 2.5rem 0;
   color: #999;
