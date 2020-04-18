@@ -2,3 +2,6 @@ title = "Julie website"
 baseURL = "http://julie.blog"
 languageCode = "fr"
 description = "un site"
+
+[permalinks]
+articles = "/:title"

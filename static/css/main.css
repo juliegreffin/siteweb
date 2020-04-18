@@ -1,6 +1,26 @@
 /*css*/
 
-h1 {
-  font-family: "Playfair Display";
+/*
+ * blue: #ebf6ff
+ * peach: #fff4eb
+ */
+
+body {
+  font-family: Laria,serif;
+}
+
+h1, h2, h3, h4 {
+  font-family: "Playfair Display",serif;
   font-weight: bold;
+}
+
+.ws-container {
+  max-width: 750px;
+}
+
+.ws-jumbotron {
+  margin-top: 8rem;
+  text-align: center;
+  padding: 10rem;
+  background-color: #fff4eb;
 }
