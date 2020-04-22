@@ -1,17 +1,18 @@
 {{ partial "head" . }}
-<div class="container ws-container">
   <!-- <div class="text-center p-4"> -->
   <!-- <h1 class="display-5">{{ .Site.Title }}</h1> -->
   <!-- </div> -->
+<div class="website">
+<div class="container ws-container">
   <div class="jumbotron text-center rounded ws-jumbotron mb-3rem">
     <h1 class="display-5">{{ .Site.Title }}</h1>
   </div>
-  <div class="mb-4rem">
+  <div class="mb-3rem">
   <div class="row">
-    <div class="col-md-8">
-      <img src="{{ .Site.BaseURL }}img/montain1.jpg" class="card-img-top" alt="..."> </img>
+    <div class="col-md-6">
+      <img src="{{ .Site.BaseURL }}img/olivierdhenin.jpg" class="card-img-top" alt="..."> </img>
     </div>
-    <div class="col-md-4">
+    <div class="col-md-6">
       <h3 class="card-title">Hello</h3>
       <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
     </div>
@@ -31,5 +32,6 @@
   {{ end }}
   </div>
   </div>
+</div>
 </div>
 {{ partial "foot" . }}
