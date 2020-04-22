@@ -34,6 +34,19 @@ h1, h2, h3 {
   margin-bottom: 3rem;
 }
 
+.card {
+  border: none;
+}
+
+.card-body {
+  border: 1px solid rgba(0,0,0,.125);
+  margin-top: -15px;
+  margin-right: 10px;
+  margin-left: 10px;
+  z-index: 2;
+  background-color: white;
+}
+
 .big-card img {
 }
 
@@ -43,7 +56,7 @@ h1, h2, h3 {
 }
 
 .ws-container {
-  max-width: 700px;
+  max-width: 750px;
 }
 
 .article {
