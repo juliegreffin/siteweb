@@ -1,11 +1,14 @@
 {{ partial "head" . }}
-<div class="container">
-  <div class="jumbotron rounded ws-jumbotron mb-4rem">
+<div class="container ws-container">
+  <!-- <div class="text-center p-4"> -->
+  <!-- <h1 class="display-5">{{ .Site.Title }}</h1> -->
+  <!-- </div> -->
+  <div class="jumbotron text-center rounded ws-jumbotron mb-3rem">
     <h1 class="display-5">{{ .Site.Title }}</h1>
   </div>
-  <div class="container mb-4rem">
-  <div class="row mb-4">
-    <div class="col-md-5 offset-md-1">
+  <div class="mb-4rem">
+  <div class="row">
+    <div class="col-md-8">
       <img src="{{ .Site.BaseURL }}img/montain1.jpg" class="card-img-top" alt="..."> </img>
     </div>
     <div class="col-md-4">
@@ -24,9 +27,9 @@
     <div class="col-md-4 border">
     </div>
   </div>
-  <div class="row">
+  <div class="row row-cols-1 row-cols-md-2">
   {{ range .FirstSection.Pages }}
-  <div class="col-md-8">
+  <div class="col mb-4">
   {{ partial "card" . }}
   </div>
   {{ end }}
