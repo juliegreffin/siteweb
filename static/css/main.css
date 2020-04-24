@@ -46,9 +46,15 @@ h1, h2, h3 {
 .ws-jumbotron h1 {
   /* color: ; */
   font-size: 8rem;
-  /* background: url("../img/blue.png") no-repeat; */
-  /* -webkit-background-clip: text; */
+  background: url("../img/blue.png") no-repeat;
+  -webkit-background-clip: text;
   /* -webkit-text-fill-color: transparent; */
+}
+
+.ws-jumbotron a {
+  animation-name: example;
+  animation-duration: 4s;
+  animation-iteration-count: infinite;
 }
 
 .art {
@@ -57,17 +63,12 @@ h1, h2, h3 {
   /* background: url("../img/blue.png") no-repeat; */
   /* -webkit-background-clip: text; */
   /* -webkit-text-fill-color: transparent; */
-  animation-name: example;
-  animation-duration: 4s;
-  animation-iteration-count: infinite;
-  color: white;
 }
 
 @keyframes example {
-  0%   {background-color: red;}
-  25%  {background-color: yellow;}
-  50%  {background-color: blue;}
-  100% {background-color: green;}
+  0%   {color: red;}
+  25%  {color: orange;}
+  50%  {color: yellow;}
 }
 
 .mb-4rem {
