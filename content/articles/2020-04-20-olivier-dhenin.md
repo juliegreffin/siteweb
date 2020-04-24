@@ -9,7 +9,7 @@ chapeau = "Olivier Dhénin dirige la Compagnie Winterreise, qui mêle théâtre 
 image = "olivierdhenin.jpg"
 +++
 
-Qui es-tu Olivier ? Quel est ton parcours ?
+### Qui es-tu Olivier ? Quel est ton parcours ?
 
 
 Je suis directeur de la Compagnie Winterreise depuis douze ans. C’est
@@ -41,8 +41,7 @@ coordination artistique et c’est là que j’ai tout appris.
 
 
 
-À quel moment dans ton parcours as-tu décidé d’intégrer des jeunes et
-des amateurs dans tes créations ?
+### À quel moment dans ton parcours as-tu décidé d’intégrer des jeunes et des amateurs dans tes créations ?
 
 
 Très vite. À vrai dire, bien avant la création de la Compagnie, je
@@ -66,11 +65,11 @@ puisqu’ils remarquaient qu’on les prenait au sérieux.
 Pour la plupart, les jeunes revenaient d’une année sur l’autre, et en
 2010 on est arrivés à la fin d’une « première génération ». On s’est
 mis alors à travailler plus précisément le théâtre, et c’est dans ce
-contexte que le projet d’Orphelins est né.
+contexte que le projet d’_Orphelins_ est né.
 
 
 
-// insert Orphelins // Orphelins : un drame du poète autrichien
+// insert Orphelins // _Orphelins_ : un drame du poète autrichien
 Rainer-Maria Rilke, accompagné de lieder de Schubert. Dans sa mise en
 scène, Olivier confie l’interprétation à des enfants et adolescents de
 8 à 18 ans, accompagnés de deux comédiens adultes et d’un quatuor à
@@ -79,12 +78,10 @@ cordes.
 
 
 
-Comment s’est passée la première création de la pièce Orphelins, qui
-cette fois était présentée dans un cadre professionnel ? Qui étaient
-ces jeunes ?
+### Comment s’est passée la première création de la pièce _Orphelins_, qui cette fois était présentée dans un cadre professionnel ? Qui étaient ces jeunes ?
 
 
-J’avais déjà créé Orphelins avec des adultes, mais j’ai pu le monter à
+J’avais déjà créé _Orphelins_ avec des adultes, mais j’ai pu le monter à
 nouveau avec des enfants et adolescents.
 
 La pièce a été créée en 2010 à la Cartoucherie, avec en partie des
@@ -106,19 +103,16 @@ avoir un désir d’être sur scène et de se lancer.
 
 
 
-« une fois que j’ai choisi les personnes je leur fais confiance,
-
-adulte ou enfant, amateur ou professionnel »
+> _« Une fois que j’ai choisi les personnes, je leur fais confiance, adulte ou enfant, amateur ou professionnel »_
 
 
 
 
-J’imagine que c’est un défi ce genre de projet, avec des enfants ?
-Est-ce que ta direction d’acteur change ?
+### J’imagine que c’est un défi ce genre de projet, avec des enfants ? Est-ce que ta direction d’acteur change ?
 
 
 
-Pour Orphelins, on confronte des jeunes à des textes et à une musique
+Pour _Orphelins_, on confronte des jeunes à des textes et à une musique
 qui semblent très loin de leur univers, mais je les crois capables de
 les porter. En leur faisant confiance, ils se sentent à la fois fiers,
 et ils se sentent pousser des ailes.
@@ -127,7 +121,7 @@ et ils se sentent pousser des ailes.
 Moi je ne fais pas de distinction, c’est toujours délicat la direction
 d’acteurs. Je pars du principe qu’une fois que j’ai choisi les
 personnes je leur fais confiance, adulte ou enfant, amateur ou
-professionnel. Sur la re-création d’Orphelins en 2019, je ne me suis
+professionnel. Sur la re-création d’_Orphelins_ en 2019, je ne me suis
 jamais restreint. Tout le travail chorégraphique, je n’aurais jamais
 pu le faire avec des adultes.
 
@@ -137,7 +131,7 @@ https://www.youtube.com/watch?v=IZpAtGPbTnw
 
 
 
-Les enfants se sentent plus libres ?
+###  Les enfants se sentent plus libres ?
 
 
 Oui, et surtout ils posent moins de questions. Ils n’ont pas d’enjeu,
@@ -157,11 +151,7 @@ qu’ils vont trouver inopinément.
 
 
 
-Ton projet repose sur une particularité : la motivation des jeunes.
-Ils sont volontaires, savent pourquoi ils sont là. Mais il pose aussi
-des difficultés : il faut s’engager sur un temps très long, le groupe
-est hétérogène en termes d’âge et d’origine géographique… Comment est
-ce que tu prends ça en compte ?
+### Ton projet repose sur une particularité : la motivation des jeunes. Ils sont volontaires, savent pourquoi ils sont là. Mais il pose aussi des difficultés : il faut s’engager sur un temps très long, le groupe est hétérogène en termes d’âge et d’origine géographique… Comment est ce que tu prends ça en compte ?
 
 
 Toute production a ses contraintes. Par exemple pour la tournée en
@@ -174,7 +164,7 @@ n’a pas du tout envie de participer.
 
 
 
-Qu’est ce qui est le plus difficile au final ?
+### Qu’est ce qui est le plus difficile au final ?
 
 
 Pour nous un atelier en classe ça a toujours été plus compliqué comme
@@ -183,7 +173,7 @@ tout tenir sur le seul cours de musique de la semaine… ça prend des
 proportions…
 
 
-Le premier reproche que je fais à l’Éducation nationale là-dessus
+Le premier reproche que je fais à l’Éducation Nationale là-dessus
 c’est le manque de flexibilité total pour les projets. Sauf que nous
 on ne peut pas faire un aller-retour en TGV juste pour une heure
 d’atelier !
@@ -199,13 +189,12 @@ pour mener ce genre de projet…
 
 
 
-Quand tu te rends dans une classe, comment est ce que tu définis le
-rôle de chacun entre le prof et l’intervenant artistique ?
+### Quand tu te rends dans une classe, comment définis-tu le rôle de chacun entre le prof et l’intervenant artistique ?
 
 
 Ça dépend des classes. Effectivement, quand c’est une classe très
 agitée, le prof se retrouve à faire la police. Parfois il préfère ne
-pas du tout intervenir. Une prof d’anglais cette année nous a dit
+pas du tout intervenir. Une prof d’Anglais cette année nous a dit
 qu’elle préférait se retenir d’intervenir pour éviter de ne poser que
 ses propres questions, parce que le sujet l’intéressait énormément.
 Elle s’est donc restreinte pour laisser parler les élèves, qui ont
@@ -213,8 +202,7 @@ toujours plus de mal.
 
 
 
-Tu as d’ailleurs beaucoup parlé de confiance, quel est ton conseil
-pour intéresser un enfant ou un ado ?
+### Tu as d’ailleurs beaucoup parlé de confiance, quel est ton conseil pour intéresser un enfant ou un ado ?
 
 
 Il faut lui parler comme à un adulte. Un ami, le compositeur Nicolas
@@ -229,22 +217,22 @@ serait complètement inconscient !
 Finalement je ne les considère pas comme des enfants, mais comme des
 artistes au plateau.
 
-Il y a une phrase de Faulkner, dans Sanctuaire que j’aime beaucoup : «
+Il y a une phrase de Faulkner, dans _Sanctuaire_ que j’aime beaucoup : «
 Nous sommes tous des enfants, exceptés les enfants eux-mêmes ».
 
 
 
-> «  je ne les considère pas comme des enfants, mais comme des artistes au plateau »
+> _«  Je ne les considère pas comme des enfants, mais comme des artistes au plateau »_
 
 
 
 
-## Est ce que ton travail de création a changé depuis que tu impliques des jeunes et des amateurs ?
+### Est ce que ton travail de création a changé depuis que tu impliques des jeunes et des amateurs ?
 
 
-_J’ai en réalité toujours travaillé avec des jeunes et des amateurs.
+J’ai en réalité toujours travaillé avec des jeunes et des amateurs.
 Mais je travaille peut être plus avec les enfants, parce que je dois
-tout leur apporter._
+tout leur apporter.
 
 C’est une forme de facilité les adultes, les professionnels, parce
 qu’ils ont une formation, ils peuvent chercher par eux-mêmes. Je leur
@@ -269,12 +257,12 @@ dans leurs habitudes, ils sont peut-être plus ouverts…
 
 
 
-## Pour finir, est ce que tu as une œuvre qui t’accompagne et que tu voudrais recommander ?
+### Pour finir, as-tu une œuvre qui t’accompagne et que tu voudrais recommander ?
 
 
 L’œuvre de Louis-René des Forêts, la poésie d’Emily Dickinson
 m’accompagnent depuis toujours… autrement actuellement je lis les
-scénarii de Louis Malle et Le Comte de Monte-Cristo d’Alexandre Dumas,
+scénarii de Louis Malle et _Le Comte de Monte-Cristo_ d’Alexandre Dumas,
 acheté le jour de l’annonce du confinement — à bon escient vu ses 1400
 pages…! Et puis je redécouvre des choses que je n’avais pas faites
 depuis vingt ans : je réécoute France Musique, j’apprends plein de
