@@ -24,6 +24,13 @@ h4 {
   font-size: 1rem;
 }
 
+nav {
+  font-family: "Playfair Display",serif;
+  font-weight: bold;
+  font-size: 5rem;
+  padding-left: 2rem;
+}
+
 
 h1, h2, h3 {
   font-family: "Playfair Display",serif;
