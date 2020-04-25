@@ -1,5 +1,5 @@
-title = "Julie website"
-baseURL = "https://relaisculture.com"
+title = "Relais"
+baseURL = "http://julie.blog"
 languageCode = "fr"
 description = "un site"
 
