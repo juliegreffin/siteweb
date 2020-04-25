@@ -44,7 +44,7 @@ coordination artistique et c’est là que j’ai tout appris.
 ### À quel moment dans ton parcours as-tu décidé d’intégrer des jeunes et des amateurs dans tes créations ?
 
 
-Très vite. À vrai dire, bien avant la création de la Compagnie, je
+Très vite. À vrai dire, bien avant la création de la [Compagnie](https://rochefortsurmer.wixsite.com/academielyrique), je
 dirigeais un stage d’été « théâtre - musique - opéra » pour la Ligue
 de l’enseignement : l’Académie lyrique. Ça a été une grande aventure,
 puisque j’ai créé cette académie en 2000, et la vingtième et dernière
@@ -59,7 +59,7 @@ transmettre des textes, et ça a très bien marché avec les jeunes
 puisqu’ils remarquaient qu’on les prenait au sérieux.
 
 
-// lien vers le site // https://rochefortsurmer.wixsite.com/academielyrique
+
 
 
 Pour la plupart, les jeunes revenaient d’une année sur l’autre, et en
@@ -69,11 +69,13 @@ contexte que le projet d’_Orphelins_ est né.
 
 
 
-// insert Orphelins // _Orphelins_ : un drame du poète autrichien
+<p class="article-focus">
+<i>Orphelins</i> : un drame du poète autrichien
 Rainer-Maria Rilke, accompagné de lieder de Schubert. Dans sa mise en
 scène, Olivier confie l’interprétation à des enfants et adolescents de
 8 à 18 ans, accompagnés de deux comédiens adultes et d’un quatuor à
 cordes.
+</p>
 
 
 
@@ -127,7 +129,7 @@ pu le faire avec des adultes.
 
 
 
-https://www.youtube.com/watch?v=IZpAtGPbTnw
+<iframe width="560" height="315" src="https://www.youtube.com/embed/IZpAtGPbTnw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 

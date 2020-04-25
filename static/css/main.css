@@ -65,6 +65,11 @@ h1, h2, h3 {
   /* -webkit-text-fill-color: transparent; */
 }
 
+.article-focus {
+  padding: 1rem;
+  background-color: #ebf6ff
+}
+
 @keyframes example {
   0%   {color: red;}
   25%  {color: orange;}
@@ -111,6 +116,18 @@ h1, h2, h3 {
   max-width: 650px;
 }
 
+.article img {
+  max-width: 100%;
+  height: auto;
+  vertical-align: middle;
+  border-style: none;
+}
+
+.article iframe {
+  vertical-align: middle;
+  border-style: none;
+}
+
 .article-title {
   margin-bottom: 3rem;
 }
@@ -125,8 +142,18 @@ h1, h2, h3 {
   padding: 1rem;
 }
 
+.article h2, h3, h4, h5 {
+  font-family: "Open Sans", Roboto, sans-serif;
+  margin-top: 3rem;
+  margin-bottom: 1rem;
+  font-size: 1rem;
+}
+
 blockquote {
-  font-size: 1.5rem;
+  margin-top: 2rem;
+  margin-bottom: 2rem;
+  text-align: right;
+  font-size: 1.2rem;
 }
 
 footer {

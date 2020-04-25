@@ -1,5 +1,5 @@
 title = "Relais"
-baseURL = "http://julie.blog"
+baseURL = "https://relaisculture.netlify.app"
 languageCode = "fr"
 description = "un site"
 
