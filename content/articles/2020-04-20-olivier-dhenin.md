@@ -162,7 +162,7 @@ Mais ils avaient tous choisi de s’engager, contrairement à une classe.
 Quand tu fais un atelier avec une classe, parfois une moitié de classe
 n’a pas du tout envie de participer.
 
-[Oprhelins](img/olivierdhenin_illu.png)
+![Orphelins](img/olivierdhenin_illu.png)
 
 
 
