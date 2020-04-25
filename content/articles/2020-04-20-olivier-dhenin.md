@@ -6,20 +6,18 @@ alias = "/olivier-dhenin"
 date = "2020-04-10"
 summary = "This blog post shows a few different types of content that’s supported and styled with Bootstrap. Basic typography, images, and code are all supported."
 chapeau = "Olivier Dhénin dirige la Compagnie Winterreise, qui mêle théâtre et musique. Il met régulièrement en scène des enfants et des amateurs. Comment prépare t-on une représentation professionnelle avec ces interprètes moins expérimentés ? Quelle force apporte cette jeunesse à ses créations ? \n\n Une histoire de confiance mutuelle, et d’expérimentations…"
-image = "olivierdhenin.jpg"
+image = "olivierdhenin_couv.jpg"
 +++
 
 ### Qui es-tu Olivier ? Quel est ton parcours ?
 
 
-Je suis directeur de la Compagnie Winterreise depuis douze ans. C’est
+Je suis directeur de la [Compagnie Winterreise](https://www.winterreise.fr/) depuis douze ans. C’est
 une compagnie qui propose un trait d’union entre le texte théâtral et
 la musique. On fait à la fois de la poésie, du théâtre, de la musique,
 de l’opéra… C’est ce mélange qui caractérise les dix années de
 compagnonnage qui sont derrière nous.
 
-
-// lien vers le site // https://www.winterreise.fr/
 
 
 J’ai tenu à rassembler ces deux champs scéniques du fait de ma
@@ -44,9 +42,9 @@ coordination artistique et c’est là que j’ai tout appris.
 ### À quel moment dans ton parcours as-tu décidé d’intégrer des jeunes et des amateurs dans tes créations ?
 
 
-Très vite. À vrai dire, bien avant la création de la [Compagnie](https://rochefortsurmer.wixsite.com/academielyrique), je
+Très vite. À vrai dire, bien avant la création de la Compagnie, je
 dirigeais un stage d’été « théâtre - musique - opéra » pour la Ligue
-de l’enseignement : l’Académie lyrique. Ça a été une grande aventure,
+de l’enseignement : [l'Académie lyrique](https://rochefortsurmer.wixsite.com/academielyrique). Ça a été une grande aventure,
 puisque j’ai créé cette académie en 2000, et la vingtième et dernière
 édition a eu lieu en 2017.
 
@@ -163,6 +161,8 @@ qu’ils dorment les uns chez les autres, trouver des voitures…
 Mais ils avaient tous choisi de s’engager, contrairement à une classe.
 Quand tu fais un atelier avec une classe, parfois une moitié de classe
 n’a pas du tout envie de participer.
+
+[Oprhelins](img/olivierdhenin_illu.png)
 
 
 
