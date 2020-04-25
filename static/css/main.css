@@ -31,6 +31,21 @@ nav {
   padding-left: 2rem;
 }
 
+nav a {
+  text-decoration: none;
+  color: black;
+}
+
+nav a:hover {
+  text-decoration: none;
+  color: black;
+}
+
+a:visited {
+  text-decoration: none;
+  color: black;
+}
+
 
 h1, h2, h3 {
   font-family: "Playfair Display",serif;
