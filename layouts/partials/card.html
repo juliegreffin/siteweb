@@ -1,11 +1,11 @@
 <div class="card h-100">
-  <img src="{{ .Site.BaseURL}}/img/{{ .Params.image }}" class="card-img-top
+  <img src="/img/{{ .Params.image }}" class="card-img-top
   ws-card-img" alt=""> </img>
   <div class="card-body">
     <h3 class="mb-0">{{ .Title }}</h3>
     <div><a class="mb-1 text-muted">{{ .Date.Format "02-01-2006" }}</a>   <strong class="d-inline-block mb-2 text-primary">World</strong></div>
     <p class="card-text mb-auto">{{ .Summary }}</p>
-    <a href="{{ .Permalink }}" class="stretched-link">Plus →</a>
+    <a href="{{ .Params.alias }}" class="stretched-link">Plus →</a>
   </div>
 </div>
 
