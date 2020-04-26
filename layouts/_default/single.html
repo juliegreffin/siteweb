@@ -2,7 +2,7 @@
 <nav><a href="{{ .Site.BaseURL }}"> R</a></nav>
 <article class="container article">
   <h1 class="article-title text-center">{{ .Title }}</h1>
-  <img src="{{ .Site.BaseURL }}/img/{{ .Params.image }}" class="img-fluid
+  <img src="/img/{{ .Params.image }}" class="img-fluid
   article-image"></img>
   <div class="article-chapeau">
     {{ (replace .Params.chapeau "\n" "<br />") | safeHTML }}
