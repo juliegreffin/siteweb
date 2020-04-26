@@ -1,7 +1,11 @@
 title = "Relais"
 baseURL = "https://relaisculture.com"
 languageCode = "fr"
-description = "un site"
+description = "Relais"
+copyright = "© 2020"
+
+[params]
+contact = "contact@relaisculture.com"
 
 [permalinks]
 articles = "/:slug"
