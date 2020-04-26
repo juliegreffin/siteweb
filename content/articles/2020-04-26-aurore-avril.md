@@ -22,7 +22,7 @@ Je suis coordinatrice pédagogique et enseignante en biologie végétale et éco
 J’ai été moi-même élève à l’École Du Breuil. Ma scolarité au collège n’avait pas de véritable sens pour moi, et j’ai commencé à m’épanouir dans ma formation professionnelle à Du Breuil. Intégrer cette école, avec son équipe enseignante bienveillante et proche de ses élèves a été pour moi une révélation. Dès ce moment-là est née l’envie de devenir, un jour, enseignante à l’École Du Breuil. Et ainsi participer à construire des projets éducatifs permettant l’épanouissement de jeunes en devenir. 
 
 
-### Pourquoi te semblait-il important, pour des élèves en apprentissage, de mener des projets culturels ? 
+### Pourquoi te semblait-il important, pour des élèves en apprentissage, de participer à des projets culturels ? 
 
 D’abord, quand j’étais élève à Du Breuil, les projets extra-scolaires ont été pour moi extrêmement valorisants tant du point de vue professionnel que personnel. 
 
