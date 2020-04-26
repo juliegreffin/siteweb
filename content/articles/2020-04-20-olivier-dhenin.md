@@ -2,7 +2,6 @@
 title = "Entretien avec Olivier Dhénin"
 draft = false
 slug = "olivier-dhenin"
-alias = "/olivier-dhenin"
 date = "2020-04-10"
 summary = "This blog post shows a few different types of content that’s supported and styled with Bootstrap. Basic typography, images, and code are all supported."
 chapeau = "Olivier Dhénin dirige la Compagnie Winterreise, qui mêle théâtre et musique. Il met régulièrement en scène des enfants et des amateurs. Comment prépare t-on une représentation professionnelle avec ces interprètes moins expérimentés ? Quelle force apporte cette jeunesse à ses créations ? \n\n Une histoire de confiance mutuelle, et d’expérimentations…"

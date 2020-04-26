@@ -4,4 +4,4 @@ languageCode = "fr"
 description = "un site"
 
 [permalinks]
-articles = "/:title"
+articles = "/:slug"
