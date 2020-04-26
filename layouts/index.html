@@ -15,7 +15,7 @@
     </div>
     <div class="col-md-6">
       <h3 class="card-title">{{ .Title }}</h3>
-      <div><a class="mb-1 text-muted">{{ .Date.Format "02-01-2006" }}</a>   <strong class="d-inline-block mb-2 text-primary">World</strong></div>
+      <div class="ws-date"><a class="mb-1 text-muted">{{ .Date.Format "02-01-2006" }}</a></div>
       <p class="card-text">{{ .Summary }}</p>
       <a href="{{ .Params.slug }}" class="stretched-link">Plus →</a>
     </div>

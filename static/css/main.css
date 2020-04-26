@@ -164,8 +164,12 @@ h1, h2, h3 {
   padding: 1rem;
 }
 
-.article h2 {
+.ws-date {
   font-family: "Open Sans", Roboto, sans-serif;
+  font-size: 0.7rem;
+}
+
+.article h2 {
   margin-top: 3rem;
   margin-bottom: 1rem;
   font-size: 1rem;
