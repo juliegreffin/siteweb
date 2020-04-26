@@ -1,10 +1,10 @@
 +++
-title = "Entretien avec Aurore Avril"
+title = "Aurore Avril : les apprentis ne sont pas que des professionnels"
 draft = false
 slug = "aurore-avril"
 alias = "/aurore-avril"
 date = "2020-04-26"
-summary = "This blog post shows a few different types of content that’s supported and styled with Bootstrap. Basic typography, images, and code are all supported."
+summary = "Aurore Avril enseigne la biologie dans un lycée professionnel. Danser quand on est apprenti horticulteur ? Et pourquoi pas ?"
 chapeau = "Aurore Avril enseigne la biologie dans un lycée professionnel horticole à Paris. Avec le soutien de ses collègues, elle inscrit les apprentis dans des ateliers danse et théâtre. Un pied de nez à tous ceux qui pensent que les projets artistiques sont réservés aux profs de Français !"
 image = "auroreavril_couv.png"
 +++

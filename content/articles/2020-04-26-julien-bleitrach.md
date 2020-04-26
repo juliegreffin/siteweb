@@ -1,10 +1,10 @@
 +++
-title = "Entretien avec Julien Bleitrach"
+title = "Julien Bleitrach : laisser une trace "
 draft = false
 slug = "julien-bleitrach"
 alias = "/julien-bleitrach"
 date = "2020-04-1026"
-summary = "This blog post shows a few different types of content that’s supported and styled with Bootstrap. Basic typography, images, and code are all supported."
+summary = "Julien Bleitrach mène un atelier avec de jeunes allophones. Comment construit-on un dialogue quand on ne parle pas la même langue ? "
 chapeau = "Julien Bleitrach est comédien et metteur en scène. Il ne conçoit pas ses spectacles sans imaginer une action culturelle en parallèle. En 2019, il mène un atelier théâtre avec une classe de primo-arrivants, allophones et jamais scolarisés. Comment créer une cohésion quand on ne parle pas la même langue ? Et surtout quelle trace laisse-t-on chez ces jeunes au parcours chaotique ? "
 image = "julienbleitrach_couv.png"
 +++
