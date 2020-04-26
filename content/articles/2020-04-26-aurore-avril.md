@@ -38,9 +38,9 @@ Mais rencontrer des intervenants extérieurs à l'école, avec leur parcours, le
 Leur rapport aux autres a également changé, il y a une meilleure cohésion de groupe entre les apprenants, mais aussi une plus grande confiance en eux. Ils ont également pris conscience de leur rôle de citoyens. Ils ont gagné en spiritualité en cultivant cette fabuleuse phrase : « on n’a rien sans rien ».
 
 
+
+
 [![ProjetDuBreuil](/img/auroreavril_vimeo.png)](https://player.vimeo.com/video/341100807)
-
-
 
 ### Quels ont été les retours de ta direction par rapport à ces projets ?
 
