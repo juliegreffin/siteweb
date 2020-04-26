@@ -37,8 +37,9 @@ Déjà, ça leur apprend tout simplement à participer à un projet… Avec son 
 Mais rencontrer des intervenants extérieurs à l'école, avec leur parcours, leurs regards, leurs approches leur apporte aussi une certaine ouverture d’esprit. Les artistes, sont de nouvelles personnes ressources, de nouveaux adultes référents. Il faut dire que pour beaucoup d’entre eux, ils sont issus de familles où la culture n’a que peu de place et beaucoup n’ont pas les codes pour entrer dans ce monde. Après avoir participé à ce projet, des portes s’ouvrent, d’autres s’entrebâillent mais aucune ne restent fermée hermétiquement comme ce pouvait être le cas au préalable. Et en prime, un peu de culture générale, c’est toujours ça de pris !
 Leur rapport aux autres a également changé, il y a une meilleure cohésion de groupe entre les apprenants, mais aussi une plus grande confiance en eux. Ils ont également pris conscience de leur rôle de citoyens. Ils ont gagné en spiritualité en cultivant cette fabuleuse phrase : « on n’a rien sans rien ».
 
-<iframe src="https://player.vimeo.com/video/341100807" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
-<p><a href="https://vimeo.com/341100807">Portraits engag&eacute;s - Projet pour enfants en mal de d&eacute;mocratie | Ecole Du Breuil, Paris</a> from <a href="https://vimeo.com/user29391177">Les Ouvreurs de Possibles</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+
+[![ProjetDuBreuil](/img/auroreavril_vimeo.png)](https://player.vimeo.com/video/341100807)
+
 
 
 ### Quels ont été les retours de ta direction par rapport à ces projets ?
