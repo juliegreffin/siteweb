@@ -162,6 +162,7 @@ h1, h2, h3 {
   text-align: justify;
   margin-bottom: 2rem;
   padding: 1rem;
+  font-weight: bold;
 }
 
 .ws-date {
