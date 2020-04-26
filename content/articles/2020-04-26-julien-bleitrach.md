@@ -3,7 +3,7 @@ title = "Julien Bleitrach : laisser une trace "
 draft = false
 slug = "julien-bleitrach"
 alias = "/julien-bleitrach"
-date = "2020-04-1026"
+date = "2020-04-26"
 summary = "Julien Bleitrach mène un atelier avec de jeunes allophones. Comment construit-on un dialogue quand on ne parle pas la même langue ? "
 chapeau = "Julien Bleitrach est comédien et metteur en scène. Il ne conçoit pas ses spectacles sans imaginer une action culturelle en parallèle. En 2019, il mène un atelier théâtre avec une classe de primo-arrivants, allophones et jamais scolarisés. Comment créer une cohésion quand on ne parle pas la même langue ? Et surtout quelle trace laisse-t-on chez ces jeunes au parcours chaotique ? "
 image = "julienbleitrach_couv.png"
@@ -15,7 +15,7 @@ Je suis sorti en 2006 de l’école du théâtre national de Chaillot. On a mont
 
 Ça m’a tout de suite passionné, car la raison première pour laquelle je fais du théâtre c’est échanger. Partager avec le public est pour moi tout aussi important que ce qui va se passer sur scène. Dans la même optique, mener une action en amont ou en aval d’un spectacle est pour moi essentiel. C’est un vrai plaisir, d’expliquer, de réfléchir, d’approfondir un spectacle ou un thème qu’on amène à un public - qu’il n’ait ou pas vu la pièce. 
 
-Avec le temps, je suis convaincu qu’on peut toujours faire des actions culturelles, quel que soit le spectacle qu’on amène. J’ai créé ma propre structure en 2015, la Compagnie L’autre monde, pour avoir plus de liberté. Et avec L’autre monde, c’est une question qui revient dès le début de chaque création : qu’est ce que je vais pouvoir monter comme projet ? 
+Avec le temps, je suis convaincu qu’on peut toujours faire des actions culturelles, quel que soit le spectacle qu’on amène. J’ai créé ma propre structure en 2015, la Compagnie L’Autre Monde, pour avoir plus de liberté. Et avec L’Autre Monde, c’est une question qui revient dès le début de chaque création : qu’est ce que je vais pouvoir monter comme projet pédagogique en parallèle de notre spectacle ? 
 
 
 ### Tu as mené en 2019 un atelier avec un groupe d’UPE2A - NSA, c’est à dire des élèves primo-arrivants, allophones, et jamais scolarisés auparavant. Tu peux nous en dire plus ?
@@ -27,12 +27,13 @@ Ils avaient plus que toute autre classe un enjeu dans leur scolarité : celui de
 
 ### Est-ce que tu avais des appréhensions avant de rencontrer ce nouveau public ? 
 
-J’avais d’abord l’appréhension de mener un atelier avec des élèves quasiment adultes : quelle est ma légitimité ? Aussi, ils étaient tous d’origine africaine, ou du Moyen-Orient, et je me demandais comment ils allaient recevoir le fait que moi, Français, Parisien, au parcours très différent, je vais leur donner un cours de théâtre ? Sachant qu’ils ne l’ont sûrement pas choisi… 
+J’avais d’abord l’appréhension de mener un atelier avec des élèves quasiment adultes : comment
+vont-ils se laisser aller dans un cadre scolaire ? Aussi, ils étaient tous d’origine africaine, ou du Moyen-Orient, et je me demandais comment ils allaient recevoir le fait que moi, Français, Parisien, au parcours très différent, je vais leur donner un cours de théâtre ? Sachant qu’ils ne l’ont sûrement pas choisi… 
 
 Mais cette appréhension s’est vite levée. D’abord parce qu’ils restent des jeunes, qui ont été confrontés de manière trop précoce à une réalité difficile, et qui ont besoin de sortir du quotidien. Pour eux participer à un atelier autour du jeu, du plaisir et de l’invention était tout d’un coup une bulle d’air dans leur journée. 
 
 
-> _« Quelle est ma légitimité ? Comment allaient-ils recevoir le fait que moi, avec un parcours très différent, je vais leur donner un cours de théâtre ? »_
+> _« Comment allaient-ils recevoir le fait que moi, avec un parcours très différent, je vais leur donner un cours de théâtre ? »_
 
 
 ### L’enseignante t’avait-elle guidé en amont, donné des conseils ? 
@@ -60,7 +61,7 @@ De manière générale, je préfère une restitution devant une classe plutôt q
 
 > _« Il était essentiel qu’ils prennent la parole en Français, devant un public, qu’ils se confrontent au regard de l’autre… »_
 
-Contrairement à d’autres groupes scolaires, ils étaient tellement expansifs en atelier que la restitution finale a semblé un peu en dessous des autres séances. En général, c’est plutôt le contraire. Mais l’ambiance, la classe conviée et les profs présents, étaient bienveillants. En tant qu’intervenant, il y a le risque d’être déçu par la restitution. Mais les élèves ont un autre ressenti, et c’est important de les faire traverser cette épreuve, et qu’ils puissent échanger avec le public. 
+Contrairement à d’autres groupes scolaires, ils étaient tellement expansifs en atelier que la restitution finale a semblé un peu en dessous des autres séances. Mais l’ambiance, la classe conviée et les profs présents, étaient bienveillants. En tant qu’intervenant, il y a le risque d’être déçu par la restitution. Mais les élèves ont un autre ressenti, et c’est important de les faire traverser cette épreuve, et qu’ils puissent échanger avec le public. 
 
 
 ### Qu’est ce que tu changerais si tu devais animer un nouvel atelier avec des jeunes allophones ? 
@@ -83,4 +84,8 @@ Le jour de la restitution, j’ai hésité à les filmer. Finalement je ne l’a
 
 ### Est-ce que tu as une œuvre que tu aimerais partager ?
 
-Oui, c’est une musique de Vincent Delerm, Vie Varda, en l’honneur d’Agnès Varda. À chaque fois que je l’écoute, elle me rend heureux. Elle m’a donné envie d’en savoir plus sur Varda, elle transmet une joie de vivre, et en même temps le choix de ne pas fermer la porte aux émotions. Cette chanson invite à vivre chacune de ses émotions, positives ou négatives…
+Oui, c’est une musique de Vincent Delerm, Vie Varda, en l’honneur d’Agnès Varda. À chaque fois que je l’écoute, elle me rend heureux. Elle m’a donné envie d’en savoir plus sur Varda, elle transmet une joie de vivre, et en même temps le choix de ne pas fermer la porte aux émotions. Cette chanson invite à vivre chacune de ses émotions que la vie nous offre. 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HHP-PDxbFPY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
