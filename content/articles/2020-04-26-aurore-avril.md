@@ -40,7 +40,7 @@ Leur rapport aux autres a également changé, il y a une meilleure cohésion de 
 
 
 
-[![ProjetDuBreuil](/img/auroreavril_vimeo.png)](https://player.vimeo.com/video/341100807)
+[![ProjetDuBreuil](/img/auroreavril_vimeo.png)](https://vimeo.com/341100807)
 
 ### Quels ont été les retours de ta direction par rapport à ces projets ?
 
