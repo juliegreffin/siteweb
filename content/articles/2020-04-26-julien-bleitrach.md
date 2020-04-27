@@ -19,6 +19,10 @@ Je suis sorti en 2006 de l’école du théâtre national de Chaillot. On a mont
 Avec le temps, je suis convaincu qu’on peut toujours faire des actions culturelles, quel que soit le spectacle qu’on amène. J’ai créé ma propre structure en 2015, la Compagnie L’Autre Monde, pour avoir plus de liberté. Et avec L’Autre Monde, c’est une question qui revient dès le début de chaque création : qu’est ce que je vais pouvoir monter comme projet pédagogique en parallèle de notre spectacle ? 
 
 
+![atelier Bleitrach](/img/julienbleitrach_illu.png)
+
+
+
 ### Tu as mené en 2019 un atelier avec un groupe d’UPE2A - NSA, c’est à dire des élèves primo-arrivants, allophones, et jamais scolarisés auparavant. Tu peux nous en dire plus ?
 
 C’était un beau projet grâce à l’énergie que portaient les jeunes. C’est une expérience qui m’a remué, parce qu’elle m’a confronté à de nouveaux rapports. 
