@@ -163,7 +163,7 @@ Quand tu fais un atelier avec une classe, parfois une moitié de classe
 n’a pas du tout envie de participer.
 
 ![Orphelins](/img/olivierdhenin_illu.png)
-
+© Winterreise
 
 
 ### Qu’est ce qui est le plus difficile au final ?

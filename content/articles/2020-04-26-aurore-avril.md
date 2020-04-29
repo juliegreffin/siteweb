@@ -39,8 +39,9 @@ Leur rapport aux autres a également changé, il y a une meilleure cohésion de 
 
 
 
-
+découvrir le projet mené à l'École Du Breuil en vidéo : 
 [![ProjetDuBreuil](/img/auroreavril_vimeo.png)](https://vimeo.com/341100807)
+
 
 ### Quels ont été les retours de ta direction par rapport à ces projets ?
 
@@ -78,3 +79,7 @@ Des conseils, j’en ai plusieurs ! D’abord, en amont, la mise en place de ces
 Ensuite, un dialogue avec les apprenants est nécessaire avant la mise en place d’un projet afin de vérifier les réactions et éventuellement déceler les réfractaires avec qui le dialogue doit être prolongé. Il ne faut jamais forcer un jeune, mais l’encourager. Souvent les jeunes ont peur de l’échec et un bon moyen de protection pour eux est de ne pas participer à l’action qui pourrait le mettre en échec. 
 Enfin, pour les lycées professionnels, il faut réussir à établir un lien avec le métier… Et il y en a toujours ! Et évidemment, communiquer sur l’action pour mettre en valeur le travail des jeunes. 
 
+
+
+![atelier Du Breuil](/img/auroreavril_illu1.png)
+© Julie Geffrin

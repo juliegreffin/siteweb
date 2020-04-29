@@ -19,9 +19,6 @@ Je suis sorti en 2006 de l’école du théâtre national de Chaillot. On a mont
 Avec le temps, je suis convaincu qu’on peut toujours faire des actions culturelles, quel que soit le spectacle qu’on amène. J’ai créé ma propre structure en 2015, la Compagnie L’Autre Monde, pour avoir plus de liberté. Et avec L’Autre Monde, c’est une question qui revient dès le début de chaque création : qu’est ce que je vais pouvoir monter comme projet pédagogique en parallèle de notre spectacle ? 
 
 
-![atelier Bleitrach](/img/julienbleitrach_illu.png)
-
-
 
 ### Tu as mené en 2019 un atelier avec un groupe d’UPE2A - NSA, c’est à dire des élèves primo-arrivants, allophones, et jamais scolarisés auparavant. Tu peux nous en dire plus ?
 
@@ -68,6 +65,8 @@ De manière générale, je préfère une restitution devant une classe plutôt q
 
 Contrairement à d’autres groupes scolaires, ils étaient tellement expansifs en atelier que la restitution finale a semblé un peu en dessous des autres séances. Mais l’ambiance, la classe conviée et les profs présents, étaient bienveillants. En tant qu’intervenant, il y a le risque d’être déçu par la restitution. Mais les élèves ont un autre ressenti, et c’est important de les faire traverser cette épreuve, et qu’ils puissent échanger avec le public. 
 
+![atelier Bleitrach](/img/julienbleitrach_illu.png)
+© Julien Bleitrach
 
 ### Qu’est ce que tu changerais si tu devais animer un nouvel atelier avec des jeunes allophones ? 
 
