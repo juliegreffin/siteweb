@@ -35,7 +35,7 @@ vont-ils se laisser aller dans un cadre scolaire ? Aussi, ils étaient tous d’
 Mais cette appréhension s’est vite levée. D’abord parce qu’ils restent des jeunes, qui ont été confrontés de manière trop précoce à une réalité difficile, et qui ont besoin de sortir du quotidien. Pour eux participer à un atelier autour du jeu, du plaisir et de l’invention était tout d’un coup une bulle d’air dans leur journée. 
 
 
-> _« Comment allaient-ils recevoir le fait que moi, avec un parcours très différent, je vais leur donner un cours de théâtre ? »_
+> _« Comment vont-ils recevoir le fait que moi, avec un parcours très différent, je leur donne un cours de théâtre ? »_
 
 
 ### L’enseignante t’avait-elle guidé en amont, donné des conseils ? 
@@ -93,3 +93,5 @@ Oui, c’est une musique de Vincent Delerm, Vie Varda, en l’honneur d’Agnès
 <iframe width="560" height="315" src="https://www.youtube.com/embed/HHP-PDxbFPY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
+
+visuel de couverture : © Alejandro Guerrero
