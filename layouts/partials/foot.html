@@ -4,7 +4,7 @@
       <div class="col-12 col-md-6">
         <h1 class="" href="/">{{ .Site.Title }}</h1>
         <small class="d-block mb-3 text-muted">
-          © 2020 - Contact: contact@email.com
+          {{ .Site.Copyright }} - {{ .Site.Params.contact }}
         </small>
       </div>
       <div class="col-md-6 text-right">
@@ -12,14 +12,10 @@
           <div class="col-4 col-md-4 offset-md-4">
             <h5>Menu</h5>
             <ul class="list-unstyled text-small">
-              <li><a class="text-muted" href="">Articles</a></li>
+              <li><a class="text-muted" href="/">Accueil</a></li>
             </ul>
           </div>
           <div class="col-4 col-md-4">
-            <h5>About</h5>
-            <ul class="list-unstyled text-small">
-              <li><a class="text-muted" href="">about</a></li>
-            </ul>
           </div>
         </div>
       </div>

@@ -9,13 +9,17 @@
   </div>
   <div class="mb-3rem">
   <div class="row">
+    {{ range where .FirstSection.Pages ".Params.featured" true }}
     <div class="col-md-6">
-      <img src="{{ .Site.BaseURL }}/img/olivierdhenin.jpg" class="card-img-top" alt="..."> </img>
+      <img src="/img/{{ .Params.image }}" class="card-img-top" alt=""> </img>
     </div>
-    <div class="col-md-6">
-      <h3 class="card-title">Hello</h3>
-      <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+    <div class="col-md-6 featured-card-body">
+      <h3 class="card-title">{{ .Title }}</h3>
+      <div class="ws-date"><a class="mb-1 text-muted">{{ .Date.Format "02-01-2006" }}</a></div>
+      <p class="card-text">{{ .Summary }}</p>
+      <div class="text-right"> <a href="{{ .Params.slug }}" class="stretched-link">Plus →</a></div>
     </div>
+    {{ end }}
     </div>
   </div>
   <div class="mb-3rem">
@@ -24,7 +28,7 @@
     </div>
   </div>
   <div class="row row-cols-1 row-cols-md-2">
-  {{ range .FirstSection.Pages }}
+  {{ range where .FirstSection.Pages ".Params.featured" false }}
   <div class="col mb-4">
   {{ partial "card" . }}
   </div>

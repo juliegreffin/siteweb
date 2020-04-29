@@ -41,7 +41,7 @@ nav a:hover {
   color: black;
 }
 
-a:visited {
+nav a:visited {
   text-decoration: none;
   color: black;
 }
@@ -68,8 +68,6 @@ h1, h2, h3 {
 .ws-jumbotron h1 {
   /* color: ; */
   font-size: 8rem;
-  background: url("../img/blue.png") no-repeat;
-  -webkit-background-clip: text;
   /* -webkit-text-fill-color: transparent; */
 }
 
@@ -162,10 +160,15 @@ h1, h2, h3 {
   text-align: justify;
   margin-bottom: 2rem;
   padding: 1rem;
+  font-weight: bold;
+}
+
+.ws-date {
+  font-family: "Open Sans", Roboto, sans-serif;
+  font-size: 0.7rem;
 }
 
 .article h2 {
-  font-family: "Open Sans", Roboto, sans-serif;
   margin-top: 3rem;
   margin-bottom: 1rem;
   font-size: 1rem;
@@ -201,3 +204,29 @@ footer {
 .copyright {
   font-family: Arial, sans-serif;
 }
+
+@media (max-width: 640px) {
+  nav  {
+    font-size: 3rem;
+  }
+  .featured-card-body {
+    border: 1px solid rgba(0,0,0,.125);
+    margin-top: -15px;
+    margin-right: 10px;
+    margin-left: 10px;
+    z-index: 2;
+    background-color: white;
+  }
+  .mb-3rem {
+    margin-bottom: 0rem;
+  }
+  .ws-jumbotron {
+    margin-top: 1rem;
+    padding: 1rem;
+    border: none;
+  }
+  .ws-jumbotron h1 {
+    font-size: 2rem;
+  }
+}
+

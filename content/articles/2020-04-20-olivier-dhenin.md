@@ -1,12 +1,12 @@
 +++
-title = "Entretien avec Olivier Dhénin"
+title = "Olivier Dhénin : faire confiance"
 draft = false
 slug = "olivier-dhenin"
-alias = "/olivier-dhenin"
 date = "2020-04-10"
-summary = "This blog post shows a few different types of content that’s supported and styled with Bootstrap. Basic typography, images, and code are all supported."
-chapeau = "Olivier Dhénin dirige la Compagnie Winterreise, qui mêle théâtre et musique. Il met régulièrement en scène des enfants et des amateurs. Comment prépare t-on une représentation professionnelle avec ces interprètes moins expérimentés ? Quelle force apporte cette jeunesse à ses créations ? \n\n Une histoire de confiance mutuelle, et d’expérimentations…"
-image = "olivierdhenin_couv.jpg"
+featured = false
+summary = "Olivier Dhénin met souvent en scène des enfants et des amateurs. Comment prépare t-on une représentation professionnelle avec ces interprètes moins expérimentés ?"
+chapeau = "Olivier Dhénin dirige la Compagnie Winterreise, qui mêle théâtre et musique. Il met régulièrement en scène des enfants et des amateurs. Comment prépare t-on une représentation professionnelle avec ces interprètes moins expérimentés ? Quelle force apporte cette jeunesse à ses créations ? "
+image = "olivierdhenin_couv.png"
 +++
 
 ### Qui es-tu Olivier ? Quel est ton parcours ?
@@ -163,7 +163,7 @@ Quand tu fais un atelier avec une classe, parfois une moitié de classe
 n’a pas du tout envie de participer.
 
 ![Orphelins](/img/olivierdhenin_illu.png)
-
+© Winterreise
 
 
 ### Qu’est ce qui est le plus difficile au final ?
