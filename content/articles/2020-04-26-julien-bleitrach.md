@@ -35,7 +35,7 @@ vont-ils se laisser aller dans un cadre scolaire ? Aussi, ils étaient tous d’
 Mais cette appréhension s’est vite levée. D’abord parce qu’ils restent des jeunes, qui ont été confrontés de manière trop précoce à une réalité difficile, et qui ont besoin de sortir du quotidien. Pour eux participer à un atelier autour du jeu, du plaisir et de l’invention était tout d’un coup une bulle d’air dans leur journée. 
 
 
-> _« Comment allaient-ils recevoir le fait que moi, avec un parcours très différent, je vais leur donner un cours de théâtre ? »_
+> _« Comment vont-ils recevoir le fait que moi, avec un parcours très différent, je leur donne un cours de théâtre ? »_
 
 
 ### L’enseignante t’avait-elle guidé en amont, donné des conseils ? 
@@ -66,7 +66,7 @@ De manière générale, je préfère une restitution devant une classe plutôt q
 Contrairement à d’autres groupes scolaires, ils étaient tellement expansifs en atelier que la restitution finale a semblé un peu en dessous des autres séances. Mais l’ambiance, la classe conviée et les profs présents, étaient bienveillants. En tant qu’intervenant, il y a le risque d’être déçu par la restitution. Mais les élèves ont un autre ressenti, et c’est important de les faire traverser cette épreuve, et qu’ils puissent échanger avec le public. 
 
 ![atelier Bleitrach](/img/julienbleitrach_illu.png)
-© Julien Bleitrach
+© Marie-Claire Moreau
 
 ### Qu’est ce que tu changerais si tu devais animer un nouvel atelier avec des jeunes allophones ? 
 
@@ -90,6 +90,12 @@ Le jour de la restitution, j’ai hésité à les filmer. Finalement je ne l’a
 
 Oui, c’est une musique de Vincent Delerm, Vie Varda, en l’honneur d’Agnès Varda. À chaque fois que je l’écoute, elle me rend heureux. Elle m’a donné envie d’en savoir plus sur Varda, elle transmet une joie de vivre, et en même temps le choix de ne pas fermer la porte aux émotions. Cette chanson invite à vivre chacune de ses émotions que la vie nous offre. 
 
+
+
+visuel de couverture : © Alejandro Guerrero
+
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/HHP-PDxbFPY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 
 

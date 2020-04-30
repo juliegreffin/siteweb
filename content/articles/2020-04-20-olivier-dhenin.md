@@ -162,7 +162,7 @@ Mais ils avaient tous choisi de s’engager, contrairement à une classe.
 Quand tu fais un atelier avec une classe, parfois une moitié de classe
 n’a pas du tout envie de participer.
 
-![Orphelins](/img/olivierdhenin_illu.png)
+![Orphelins](/img/olivierdhenin_illu2.png)
 © Winterreise
 
 
@@ -177,9 +177,7 @@ proportions…
 
 Le premier reproche que je fais à l’Éducation Nationale là-dessus
 c’est le manque de flexibilité total pour les projets. Sauf que nous
-on ne peut pas faire un aller-retour en TGV juste pour une heure
-d’atelier !
-
+on ne peut pas faire traverser la moitié de la France à un chef d'orchestre pour une heure d'atelier ! 
 
 Même quand les profs sont hyper motivés, il y a toujours des
 contraintes, et ils restent débordés par d’autres choses, ce que je
@@ -233,12 +231,12 @@ Nous sommes tous des enfants, exceptés les enfants eux-mêmes ».
 
 
 J’ai en réalité toujours travaillé avec des jeunes et des amateurs.
-Mais je travaille peut être plus avec les enfants, parce que je dois
+Mais l'investissement avec les enfants est plus intense, parce que je dois
 tout leur apporter.
 
 C’est une forme de facilité les adultes, les professionnels, parce
 qu’ils ont une formation, ils peuvent chercher par eux-mêmes. Je leur
-donne quelques bribes, et ils s’en nourrissent, les mûrissent. Les
+donne quelques bribes, et ils s’en nourrissent, les mûrissent. Je laisse éclore cela au plateau puis taille, ordonne, tel un jardinier. Les
 enfants eux, ne peuvent pas faire ça. Dans les deux processus
 finalement on est toujours un peu à l’aveugle…
 
@@ -246,7 +244,7 @@ finalement on est toujours un peu à l’aveugle…
 Cette façon de travailler, je la poursuis, puisque je travaille
 maintenant avec Antonin Monié, danseur de l’Opéra de Paris, quelqu’un
 qui n’est habituellement jamais appelé à parler sur scène. On crée
-ensemble un poème chorégraphique d’après le texte de La Tempête de
+ensemble un poème chorégraphique d’après le texte de _La Tempête_ de
 Shakespeare, qu’il dit tout en dansant. Il doit s’exprimer alors que
 son corps est en tension extrême.
 
@@ -254,8 +252,8 @@ Grâce à lui, je perçois pour la première fois le texte comme un
 mouvement dans l’espace. C’est une nouvelle façon de travailler, avec
 quelqu’un qui est dans une recherche, et un désir d’autre chose. Les
 comédiens, eux, sont comédiens. Le désir n’est pas le même, c’est leur
-métier. Les enfants, ou ce danseur, font quelque chose qui n’est pas
-dans leurs habitudes, ils sont peut-être plus ouverts…
+métier, leur univers : ils y ont leurs marques. Les enfants, ou ce danseur, font quelque chose qui n’est pas
+dans leurs habitudes, ils sont peut-être plus ouverts car ils ne situent pas le danger au même endroit. On les accompagne différemment. 
 
 
 
