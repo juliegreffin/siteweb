@@ -204,15 +204,26 @@ footer {
   font-family: Arial, sans-serif;
 }
 
+.foot-menu {
+  text-align: right;
+}
+
 @media (max-width: 640px) {
   nav  {
     font-size: 3rem;
   }
+  .foot-menu {
+    text-align: left;
+  }
+  .ws-container {
+    padding-left: 15px;
+    padding-right: 15px;
+  }
   .featured-card-body {
     border: 1px solid rgba(0,0,0,.125);
     margin-top: -15px;
-    margin-right: 10px;
-    margin-left: 10px;
+    margin-right: 15px;
+    margin-left: 15px;
     z-index: 2;
     background-color: white;
   }
