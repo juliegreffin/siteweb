@@ -1,5 +1,6 @@
 {{ partial "head" . }}
-<nav><a href="/"> R</a></nav>
+<div class="container">
+{{ partial "nav" . }}
 <article class="container article">
   <h1 class="article-title text-center">{{ .Title }}</h1>
   <img src="/img/{{ .Params.image }}" class="img-fluid
@@ -9,4 +10,5 @@
   </div>
   {{ .Content }}
 </article>
+</div>
 {{ partial "foot" . }}
