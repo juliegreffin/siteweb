@@ -1,7 +1,4 @@
 {{ partial "head" . }}
-  <!-- <div class="text-center p-4"> -->
-  <!-- <h1 class="display-5">{{ .Site.Title }}</h1> -->
-  <!-- </div> -->
 <div class="website">
 <div class="container ws-container">
   <div class="jumbotron text-center rounded ws-jumbotron mb-3rem">
@@ -9,7 +6,8 @@
   </div>
   <div class="mb-3rem">
   <div class="row">
-    {{ range where .FirstSection.Pages ".Params.featured" true }}
+    {{ with .Site.GetPage "/articles" }}
+    {{ range first 1 (where .Pages ".Params.featured" true) }}
     <div class="col-md-6">
       <img src="/img/{{ .Params.image }}" class="card-img-top" alt=""> </img>
     </div>
@@ -20,6 +18,7 @@
       <div class="text-right"> <a href="{{ .Params.slug }}" class="stretched-link">Plus →</a></div>
     </div>
     {{ end }}
+    {{ end }}
     </div>
   </div>
   <div class="mb-3rem">
@@ -28,10 +27,12 @@
     </div>
   </div>
   <div class="row row-cols-1 row-cols-md-2">
-  {{ range where .FirstSection.Pages ".Params.featured" false }}
+  {{ with .Site.GetPage "/articles" }}
+  {{ range (where .Pages ".Params.featured" false) }}
   <div class="col mb-4">
   {{ partial "card" . }}
   </div>
+  {{ end }}
   {{ end }}
   </div>
   </div>
