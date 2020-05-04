@@ -18,17 +18,27 @@ body {
   background-color: rgba(255, 255, 255, 0.8);
 }
 
-h4 {
+.article h4 {
   font-family: sans-serif;
   font-weight: bold;
   font-size: 1rem;
 }
 
-nav {
+.main-nav {
+  padding-top: 2rem;
+  padding-bottom: 2rem;
+}
+
+.r nav {
   font-family: "Playfair Display",serif;
   font-weight: bold;
   font-size: 5rem;
   padding-left: 2rem;
+}
+
+.nav-item {
+  padding-left: 1rem;
+  font-family: "Open Sans", Roboto, sans-serif;
 }
 
 nav a {
@@ -41,15 +51,34 @@ nav a:hover {
   color: black;
 }
 
+.about a {
+  text-decoration: none;
+  color: black;
+}
+
+.about a:hover {
+  text-decoration: none;
+  color: black;
+}
+
 nav a:visited {
   text-decoration: none;
   color: black;
 }
 
+.header-title {
+  text-align: center;
+  padding: 1rem;
+}
 
-h1, h2, h3 {
+
+h1, h2, h3, h4 {
   font-family: "Playfair Display",serif;
   font-weight: bold;
+}
+
+h4 {
+  font-size: 1.2rem;
 }
 
 .ws-jumbotron {
@@ -103,9 +132,45 @@ h1, h2, h3 {
   margin-bottom: 3rem;
 }
 
+.featured-card {
+  background: url("../img/flower.jpg") no-repeat;
+  background-position: center;
+  background-size: cover;
+  padding: 5rem;
+  padding-left: 6rem;
+  padding-right: 6rem;
+}
+
+.featured-card-img {
+  padding-left: 0px;
+}
+
+.featured-card-body {
+  background-color: white;
+  padding: 2rem;
+}
+
+.featured-card-text {
+  padding-right: 0px;
+}
+
+.card-text {
+  font-size: 0.9rem;
+}
+
 .card {
   border: none;
   background-color: transparent;
+}
+
+.ws-card a:hover {
+  text-decoration: none;
+  color: black;
+}
+
+.ws-card a:visited {
+  text-decoration: none;
+  color: black;
 }
 
 .card-body {
@@ -125,7 +190,6 @@ h1, h2, h3 {
 }
 
 .ws-container {
-  max-width: 750px;
   padding: 0px;
 }
 
@@ -201,15 +265,20 @@ footer {
 }
 
 .copyright {
-  font-family: Arial, sans-serif;
+  font-family: "Open Sans", Roboto, sans-serif;
 }
 
 .foot-menu {
   text-align: right;
 }
 
+.img-julie {
+  border-radius: 50%;
+  max-width: 3rem;
+}
+
 @media (max-width: 640px) {
-  nav  {
+  .r nav  {
     font-size: 3rem;
   }
   .foot-menu {
@@ -219,7 +288,14 @@ footer {
     padding-left: 15px;
     padding-right: 15px;
   }
-  .featured-card-body {
+  .featured-card {
+    padding: 0px;
+  }
+  .featured-card-img {
+    padding-right: 0px;
+  }
+
+  .featured-card-text {
     border: 1px solid rgba(0,0,0,.125);
     margin-top: -15px;
     margin-right: 15px;
