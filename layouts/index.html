@@ -2,7 +2,7 @@
 <div class="website">
 <div class="container ws-container">
   <div class="jumbotron text-center rounded ws-jumbotron mb-3rem">
-    <h1 class="display-5">Relais</h1>
+    <h1 class="display-5">{{ .Site.Title }}</h1>
   </div>
   <div class="mb-3rem">
   <div class="row">
@@ -15,7 +15,7 @@
       <h3 class="card-title">{{ .Title }}</h3>
       <div class="ws-date"><a class="mb-1 text-muted">{{ .Date.Format "02-01-2006" }}</a></div>
       <p class="card-text">{{ .Summary }}</p>
-      <div class="text-right"> <a href="{{ .Params.slug }}" class="stretched-link">Plus →</a></div>
+      <div class="text-right"> <a href="/{{ .Params.slug }}" class="stretched-link">Plus →</a></div>
     </div>
     {{ end }}
     {{ end }}

@@ -18,7 +18,7 @@ body {
   background-color: rgba(255, 255, 255, 0.8);
 }
 
-h4 {
+.article h4 {
   font-family: sans-serif;
   font-weight: bold;
   font-size: 1rem;
@@ -46,10 +46,19 @@ nav a:visited {
   color: black;
 }
 
+.header-title {
+  text-align: center;
+  padding: 1rem;
+}
 
-h1, h2, h3 {
+
+h1, h2, h3, h4 {
   font-family: "Playfair Display",serif;
   font-weight: bold;
+}
+
+h4 {
+  font-size: 1.2rem;
 }
 
 .ws-jumbotron {
@@ -106,6 +115,16 @@ h1, h2, h3 {
 .card {
   border: none;
   background-color: transparent;
+}
+
+.ws-card a:hover {
+  text-decoration: none;
+  color: black;
+}
+
+.ws-card a:visited {
+  text-decoration: none;
+  color: black;
 }
 
 .card-body {
