@@ -1,38 +1,47 @@
 {{ partial "head" . }}
-  <!-- <div class="text-center p-4"> -->
-  <!-- <h1 class="display-5">{{ .Site.Title }}</h1> -->
-  <!-- </div> -->
 <div class="website">
 <div class="container ws-container">
-  <div class="jumbotron text-center rounded ws-jumbotron mb-3rem">
-    <h1 class="display-5">Relais</h1>
-  </div>
+  {{ partial "nav" . }}
   <div class="mb-3rem">
-  <div class="row">
-    {{ range where .FirstSection.Pages ".Params.featured" true }}
-    <div class="col-md-6">
+  <div class="featured-card">
+  <div class="row featured-card-body">
+    {{ with .Site.GetPage "/articles" }}
+    {{ range first 1 (where .Pages ".Params.featured" true) }}
+    <div class="col-md-6 featured-card-img">
       <img src="/img/{{ .Params.image }}" class="card-img-top" alt=""> </img>
     </div>
-    <div class="col-md-6 featured-card-body">
+    <div class="col-md-6 featured-card-text">
       <h3 class="card-title">{{ .Title }}</h3>
       <div class="ws-date"><a class="mb-1 text-muted">{{ .Date.Format "02-01-2006" }}</a></div>
-      <p class="card-text">{{ .Summary }}</p>
-      <div class="text-right"> <a href="{{ .Params.slug }}" class="stretched-link">Plus →</a></div>
+      <p>{{ .Summary }}</p>
+      <div class="text-right"> <a href="/{{ .Params.slug }}" class="stretched-link">Plus →</a></div>
     </div>
+    {{ end }}
     {{ end }}
     </div>
   </div>
-  <div class="mb-3rem">
-      <div class="bg-light rounded p-4">
-        {{ .Content }}
-    </div>
   </div>
+  <div class="row">
+    <div class="col-md-7">
   <div class="row row-cols-1 row-cols-md-2">
-  {{ range where .FirstSection.Pages ".Params.featured" false }}
+  {{ with .Site.GetPage "/articles" }}
+  {{ range (where .Pages ".Params.featured" false) }}
   <div class="col mb-4">
   {{ partial "card" . }}
   </div>
   {{ end }}
+  {{ end }}
+  </div>
+    </div>
+    <div class="col-md-5 about">
+      <div class="bg-light rounded p-4">
+        {{ .Content }}
+      <div class="text-right"> <a href="https://twitter.com/juliegeffrin" class="stretched-link">
+          Julie
+        <img src="/img/julie.jpg" class="img-julie">
+        </a></div>
+    </div>
+    </div>
   </div>
   </div>
 </div>
