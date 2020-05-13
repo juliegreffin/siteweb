@@ -6,8 +6,7 @@ alias = "/cecile-chabaud"
 featured = false
 date = "2020-05-13"
 summary = "Pour Cécile Chabaud, les collégiens ont besoin de concret pour s’intéresser aux classiques. Qu’en est-il quand elle monte un projet mémoriel ?"
-chapeau = "Cécile Chabaud est prof de Français dans un collège. Elle a fait le choix d’aborder les œuvres classiques par des détails concrets, réels. Avec ses élèves, elle part notamment en exploration dans Paris, retrouver les lieux des romans de Zola. 
-Quand sa passion pour les questions mémorielles rejoint le programme des élèves, elle se lance dans des projets ambitieux où les collégiens sont partie prenante de leur construction. "
+chapeau = "Cécile Chabaud est prof de Français dans un collège. Elle a fait le choix d’aborder les œuvres classiques par des détails concrets, réels. Avec ses élèves, elle part notamment en exploration dans Paris, retrouver les lieux des romans de Zola. Quand sa passion pour les questions mémorielles rejoint le programme des élèves, elle se lance dans des projets ambitieux où les collégiens sont partie prenante de leur construction. "
 image = "cecilechabaud_couv.png"
 +++
 
