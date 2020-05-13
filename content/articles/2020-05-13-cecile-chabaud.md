@@ -42,7 +42,7 @@ Oui, le métier de prof c’est vraiment ça… À mon époque, dans les IUFM (i
 
 J’ai rencontré dans ma carrière des gens qui avaient un savoir encyclopédique indéniable, qui étaient agrégés, brillants, mais qui ne pouvaient pas enseigner, parce que pour eux vulgariser c’est un blasphème. Être face à une classe de collège c’est s’adapter à plein de problématiques différentes, plein d’esprits et de sensibilités différents. Et en filigrane, des situations sociales différentes, aussi.  Partant de là, il y a plein de manières d’enseigner, et c’est ce que je trouve passionnant. 
 
-![projet Poilus](/img/cecilechabaud_illu1.jpg)
+![projet Poilus](/img/cecilechabaud_illu1.png)
 Lors de la restitution du projet de théâtre sur les mémoires de Poilus, à la Mairie du XVème
 © Roman Flonneau
 
@@ -76,7 +76,7 @@ Dans un projet théâtre que j’ai monté sur les Poilus, ceux qui n’étaient
 
 
 <p class="article-focus">
-<i>Projet film concentration</i> : En 2016-2017, Cécile monte avec sa classe de 3ème un projet de film sur les camps de concentration. Elle travaille à partir d’images d’archives, et fait intervenir dans sa classe des témoins : Victor Perahia, déporté à 9 ans, rescapé de Bergen-Belsen ; Malka Braun, fille de Sam Braun, dont ils avaient lu le livre ; Robert Franck venu leur raconter son expérience d’enfant caché. Le film, entièrement réalisé par les élèves, est projeté à la Mairie du XVème arrondissement, et a été primé au Concours national de la résistance et de la déportation.
+<i>Réalisation d'un film sur les camps de concentration</i> : En 2016-2017, Cécile monte avec sa classe de 3ème un projet de film sur les camps de concentration. Elle travaille à partir d’images d’archives, et fait intervenir dans sa classe des témoins : Victor Perahia, déporté à 9 ans, rescapé de Bergen-Belsen ; Malka Braun, fille de Sam Braun, dont ils avaient lu le livre ; Robert Franck venu leur raconter son expérience d’enfant caché. Le film, entièrement réalisé par les élèves, est projeté à la Mairie du XVème arrondissement, et a été primé au Concours national de la résistance et de la déportation.
 </p>
 
 
@@ -98,6 +98,11 @@ Il m’est arrivé de travailler seule. Pas parce que je ne suis amie avec perso
 Les Principaux me font confiance, ils savent que je mène au bout mes projets. En général ils m’accordent un petit crédit de moins de cent euros si je le demande. Mais les grosses subventions, je ne les ai jamais puisque que je ne les demande jamais en temps et en heure. 
 
 Les réseaux se font au fil des ans. À la Mairie du XVème, j’avais commencé par monter une exposition sur Paris dans la Littérature du XIXème. Et de fil en aiguille j’ai connu des gens là-bas. Aujourd’hui je sais que si je les appelle, la Mairie se met en partenariat avec moi sans problème. Et c’est parfait, c’est un très bel endroit un peu cérémonieux. 
+
+
+![projet Poilus](/img/cecilechabaud_illu2.png)
+© Roman Flonneau
+
 
 ### Tes projets aboutissent d’ailleurs à une restitution assez cérémonieuse, devant un public large : témoins, journalistes… Pourquoi ? 
 
