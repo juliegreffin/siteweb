@@ -6,19 +6,19 @@ alias = "/cecile-chabaud"
 featured = false
 date = "2020-05-13"
 summary = "Pour Cécile Chabaud, les collégiens ont besoin de concret pour s’intéresser aux classiques. Qu’en est-il quand elle monte un projet mémoriel ?"
-chapeau = "Cécile Chabaud est prof de Français dans un collège. Elle a fait le choix d’aborder les œuvres classiques par des détails concrets, réels. Avec ses élèves, elle part notamment en exploration dans Paris, retrouver les lieux des romans de Zola. Quand sa passion pour les questions mémorielles rejoint le programme des élèves, elle se lance dans des projets ambitieux où les collégiens sont partie prenante de leur construction. "
+chapeau = "Cécile Chabaud est prof de Français dans un collège. Elle a fait le choix d’aborder les œuvres classiques par des détails concrets, réels, soit par une démarche naturaliste inspirée des enquêtes de Zola, soit grâce à l'incarnation directe des personnages par ses élèves. Quand sa passion pour les questions mémorielles rejoint le programme, elle se lance dans des projets ambitieux où les collégiens sont partie prenante de leur construction. "
 image = "cecilechabaud_couv.png"
 +++
 
 ### Qui es-tu, et comment es-tu devenue prof ? 
 
 J’ai toujours eu une grande passion pour les Lettres, et après une classe préparatoire et quelques années de Sorbonne, je suis devenue prof de Lettres. Ça va faire vingt ans maintenant. 
-J’ai commencé ma carrière en Seine-Saint-Denis, au Blanc-Mesnil, dans un bahut classé ZEP. J’ai ensuite muté dans un collège du XVème arrondissement de Paris, où je suis toujours.
+J’ai commencé ma carrière en Seine-Saint-Denis, au Blanc-Mesnil, dans un établissement classé ZEP. J’ai ensuite muté dans un collège du XVème arrondissement de Paris, où je suis toujours.
 
 
 ### Tu as donc toujours travaillé en collège ? 
 
-Oui, si on excepte mon année de stage, où on est obligés de faire un stage en lycée. Mais je préfère le collège, j’ai une grande passion pour cette tranche d’âge. À partir du moment où les élèves arrivent en 6ème-5ème, ils commencent à être dans un mal-être qui me touche beaucoup. Le challenge est d’essayer de les intéresser, et de leur faire passer au mieux ce mauvais moment. L’adolescence est douloureuse pour eux. On voit bien que le Français, ce n’est pas leur première préoccupation…
+Oui, si on excepte mon année de stage, où on est obligés de faire un stage en lycée. Mais je préfère le collège, j’adore cette tranche d’âge. À partir du moment où les élèves arrivent en 6ème-5ème, ils commencent à être dans un mal-être qui me touche beaucoup. Le challenge est d’essayer de les intéresser, et de leur faire passer au mieux ce mauvais moment. L’adolescence est douloureuse pour eux. On voit bien que le Français, ce n’est pas leur première préoccupation…
 Quand je revois les élèves plus tard, ils ont complètement changé, ils se sont apaisés. Mais au collège je me sens utile. J’ai fait beaucoup de belles rencontres, et j’espère à chaque fois être une rencontre pour les élèves que je côtoie. 
 
 
@@ -33,12 +33,12 @@ Ma matière a l’avantage de pouvoir faire facilement des digressions vers la m
 
 ### Sur quels supports t’appuies-tu pour cela ? 
 
-Vraiment tout ! Beaucoup l’image : les tableaux, le cinéma… mais aussi, quand je fais étudier Zola et qu’il évoque des lieux, on revient sur la toponymie, la géographie… Par exemple quand ils lisent _L’Assommoir_, c’est très important de montrer que Zola a d’abord fait un travail de journaliste : il est allé se renseigner sur la réalité du décor. Et quand les élèves arrivent à voir des ressemblances entre le texte et la réalité topographique, ils adorent ! Aller retrouver la petite bosse de la rue de Gervaise que Zola avait repérée et décrite dans le livre, ça les fait sourire. 
+Vraiment tout ! Beaucoup l’image : les tableaux, le cinéma… mais aussi, quand je fais étudier Zola et qu’il évoque des lieux, on revient sur la toponymie, la géographie… Par exemple quand ils lisent _L’Assommoir_, c’est très important de montrer que Zola a d’abord fait un travail de journaliste : il est allé se renseigner sur la réalité du décor. Et quand les élèves arrivent à voir des ressemblances entre le texte et la réalité topographique, ils adorent ! Comparer le roman avec les cartes d'époque, ou même aller retrouver la petite bosse de la rue de Gervaise que Zola avait repérée et décrite dans le livre, ça les fait sourire. 
 
 
 ### C’est une ruse que tu as développée avec l’expérience ? 
 
-Oui, le métier de prof c’est vraiment ça… À mon époque, dans les IUFM (instituts universitaires de formation des maîtres), on nous apprenait comment nous comporter devant une classe, mais de façon trop théorique. Ça ne servait absolument à rien ! Mon expérience est venue au fil des années. J’ai eu la chance de pouvoir m’occuper de jeunes en difficulté avant de commencer le professorat, et ça m’a beaucoup aidée. Je savais déjà ce qu’il fallait faire ou non face à un groupe de jeunes en difficulté. Éviter le frontal par exemple, c’est quelque chose qu’on ne nous dit pas. Les jeunes profs se prennent parfois des grosses claques, parce qu’ils ne sont pas préparés. Et il y a des gens qui ne surmontent pas ça, souvent parce qu’ils ne sont pas faits pour ça…
+Oui, le métier de prof c’est vraiment ça, un apprivoisonnement par le savoir… À mon époque, dans les IUFM (instituts universitaires de formation des maîtres), on nous apprenait comment nous comporter devant une classe, mais de façon trop théorique. Ça ne servait absolument à rien ! Mon expérience est venue au fil des années. J’ai eu la chance de pouvoir m’occuper de jeunes en difficulté avant de commencer le professorat, et ça m’a beaucoup aidée. Je savais déjà ce qu’il fallait faire ou non face à un groupe de jeunes en difficulté. Éviter le frontal par exemple, c’est quelque chose qu’on ne nous dit pas. Les jeunes profs se prennent parfois des grosses claques, parce qu’ils ne sont pas préparés. Et il y a des gens qui ne surmontent pas ça, souvent parce qu’ils ne sont pas faits pour ça…
 
 J’ai rencontré dans ma carrière des gens qui avaient un savoir encyclopédique indéniable, qui étaient agrégés, brillants, mais qui ne pouvaient pas enseigner, parce que pour eux vulgariser c’est un blasphème. Être face à une classe de collège c’est s’adapter à plein de problématiques différentes, plein d’esprits et de sensibilités différents. Et en filigrane, des situations sociales différentes, aussi.  Partant de là, il y a plein de manières d’enseigner, et c’est ce que je trouve passionnant. 
 
@@ -60,11 +60,11 @@ En revanche, pour tout ce qui concerne le mémoriel, je peux les emporter. Et il
 ### Ont-ils les ressources nécessaires, en début de projet, pour comprendre ? 
 
 Non, ils découvrent. Beaucoup trop le découvrent, et c’est terrible, pour la Shoah notamment. 
-Dans les manuels de Français, on étudie les poèmes de la Résistance pour aborder la période 39-45. Moi, je ferme la porte de ma classe, et je continue à parler énormément de la Shoah, parce que je trouve ça très important. 
-Chaque année, j’ai des élèves qui ne savent pas ce qu’est la Shoah, ou alors qui vont plus loin, font preuve d’un antisémitisme assumé, en disant « c’est bien fait pour eux ». Il faut aller contre les préjugés, toute cette méconnaissance, cette cruauté parfois. C’est un travail - comme tout le reste de mon travail - d’apprivoisement. 
+Dans les manuels de Français, on étudie de plus en plus les poèmes de la Résistance pour aborder la période 39-45. Moi, je ferme la porte de ma classe, et je continue à parler énormément de la Shoah, parce que je trouve ça très important. 
+Chaque année, j’ai des élèves qui ne savent pas ce qu’est la Shoah, ou alors qui vont plus loin, font preuve d’un antisémitisme assumé, en disant « c’est bien fait pour eux [les Juifs]». Il faut aller contre les préjugés, toute cette méconnaissance, cette cruauté parfois. C’est un travail - comme tout le reste de mon travail - d’apprivoisement. 
 
 
->_" Toute la problématique de mon métier réside dans l’apprivoisement : je sais que vous n’aimez pas le français ou que vous êtes en lutte contre ce que je vais vous apprendre, certains d’entre vous vont être en échec, mais l’idée c’est de passer un bon moment. Vous allez apprendre des choses, et vous aurez gagné. "_
+>_" Toute la problématique de mon métier réside dans l’apprivoisement : je sais que vous n’aimez pas le Français ou que vous êtes en lutte contre ce que je vais vous apprendre, certains d’entre vous vont être en échec, certains ont même d'autres problèmes, mais l’idée c’est de passer un bon moment. Vous allez forcément apprendre des choses, et vous aurez gagné. "_
 
 
 
@@ -97,7 +97,7 @@ Il m’est arrivé de travailler seule. Pas parce que je ne suis amie avec perso
 
 Les Principaux me font confiance, ils savent que je mène au bout mes projets. En général ils m’accordent un petit crédit de moins de cent euros si je le demande. Mais les grosses subventions, je ne les ai jamais puisque que je ne les demande jamais en temps et en heure. 
 
-Les réseaux se font au fil des ans. À la Mairie du XVème, j’avais commencé par monter une exposition sur Paris dans la Littérature du XIXème. Et de fil en aiguille j’ai connu des gens là-bas. Aujourd’hui je sais que si je les appelle, la Mairie se met en partenariat avec moi sans problème. Et c’est parfait, c’est un très bel endroit un peu cérémonieux. 
+Les réseaux se font au fil des ans et des rencontres. À la Mairie du XVème, j’avais commencé par monter une exposition sur Paris dans la Littérature du XIXème. Et de fil en aiguille j’ai connu des gens là-bas. Aujourd’hui je sais que si je les appelle, la Mairie se met en partenariat avec moi sans problème. Et c’est parfait, c’est un très bel endroit un peu cérémonieux. 
 
 
 ![projet Poilus](/img/cecilechabaud_illu2.png)
@@ -118,7 +118,7 @@ Je vais te dire, c’est par Facebook ! J’ai une copine maquilleuse, elle m’
 Mais je crois - si je devais donner un conseil - qu’il ne faut pas hésiter à y aller au culot. Et évidemment ne pas compter son temps… Il ne faut compter que sur soi, et sur les élèves. Il faut croire en son projet, et faire confiance aux élèves, qui sont exceptionnels. Et ne pas hésiter à frapper aux portes. Parce que quand il s’agit d’aider une classe, les gens sont toujours partants… non, pas toujours je dois avouer. Pas les organismes culturels… J’ai été très déçue par beaucoup de musées à qui j’ai envoyé des projets et demandé de l’aide et qui ne m’ont jamais répondu. 
 
 
->_" Je crois que le problème de certains musées et lieux de mémoire, c’est qu’ils ont oublié qu’ils sont faits pour le peuple, et pas que pour une petite élite. Beaucoup de structures culturelles françaises sont trop prétentieuses, enfin pas toutes heureusement. "_
+>_" Je crois que le problème de certains musées et lieux de mémoire, c’est qu’ils ont oublié qu’ils sont faits pour le peuple, et pas que pour une petite élite. Beaucoup de structures culturelles françaises sont trop peu disposées à faire entrer l'École dans leurs murs. "_
 
 
 ### Tu te débrouilles donc généralement seule, avec tes collègues et avec les élèves…  
@@ -131,4 +131,4 @@ Le soir de la projection du film à la Mairie, j’ai appris aux élèves qu’i
 ### Pour finir, quelles œuvres aimerais-tu recommander ? 
 
 C’est terrible, parce que quand on me demande quelle est mon œuvre préférée, j’ai toujours l’impression d’être ingrate vis à vis des autres… S’il y a une œuvre qui m’a marquée dans toute mon existence, c’est _L’homme qui rit_ de Victor Hugo. Chaque phrase dans ce texte pourrait être une citation à mettre sur le frontispice ou la façade d’un monument historique.
-Mais je ne pas peux pas finir sans parler de Zola… ce serait trop injuste ! L’œuvre que j’aime travailler avec mes élèves et que je recommande aux collègues qui commencent parce qu’elle est très riche, c’est _L’Assommoir_. Parce que c’est à la fois une œuvre d’intellectuel, mais aussi une œuvre populaire, qui est vrai exercice de style. J’aime bien montrer en parallèle le film _Gervaise_ de René Clément. Et à partir de là, je pars dans des digressions sur la misère, l’alcool, sur les effets de l’absinthe, le delirium tremens, la prostitution... et bien sûr l’hérédité… Finalement, on en revient toujours à la question de la mémoire. On rentre dans Zola par l’hérédité, l’arbre généalogique des Rougon-Macquart et la transmission de la tare. C’est à partir de ce moment-là qu’ils s’y intéressent…
+Mais je ne pas peux pas finir sans parler de Zola… ce serait trop injuste ! L’œuvre que j’aime travailler avec mes élèves et que je recommande aux collègues qui commencent parce qu’elle est très riche, c’est _L’Assommoir_. Parce que c’est à la fois une œuvre d’intellectuel, mais aussi une œuvre populaire, qui est vrai exercice de style. Je pars dans des digressions sur la misère, l’alcool, sur les effets de l’absinthe, le delirium tremens, la prostitution, la maltraitance des enfants... La séance d'introduction est celle sur l’hérédité, l’arbre généalogique des Rougon-Macquart et la transmission de la tare. Finalement, on en revient toujours à la question de la mémoire.
