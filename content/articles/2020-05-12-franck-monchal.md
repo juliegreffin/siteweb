@@ -1,5 +1,5 @@
 +++
-title = "Franck Monchal : je leur demande de se mouiller "
+title = "Franck Monchal : anticonformisme "
 draft = false
 slug = "franck-monchal"
 alias = "/franck-monchal"
