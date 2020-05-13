@@ -1,6 +1,6 @@
 +++
 title = "Franck Monchal : je leur demande de se mouiller "
-draft = true
+draft = false
 slug = "franck-monchal"
 alias = "/franck-monchal"
 featured = false

@@ -1,6 +1,6 @@
 +++
 title = "Cécile Chabaud : apprivoiser la mémoire "
-draft = true
+draft = false
 slug = "cecile-chabaud"
 alias = "/cecile-chabaud"
 featured = false
