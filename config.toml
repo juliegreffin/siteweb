@@ -4,6 +4,9 @@ languageCode = "fr"
 description = "Relais"
 copyright = "© 2020"
 
+[markup.goldmark.renderer]
+unsafe= true
+
 [params]
 contact = "contact@relaisculture.com"
 
