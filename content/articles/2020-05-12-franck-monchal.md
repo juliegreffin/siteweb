@@ -1,9 +1,9 @@
 +++
-title = "Franck Monchal : anticonformisme "
+title = "Franck Monchal : l'anticonformisme "
 draft = false
 slug = "franck-monchal"
 alias = "/franck-monchal"
-featured = false
+featured = true
 date = "2020-04-26"
 summary = "Franck organise dans son lycée pro des conférences et rencontres. Le but ? Que les élèves osent avoir un avis. "
 chapeau = "Franck Monchal est prof en lycée professionnel depuis vingt-cinq ans. Pour inciter les élèves à s'exprimer, il multiplie les actions : sorties, rencontres, interviews... à l'extérieur, mais surtout au sein-même du lycée. Pourquoi ouvrir les portes du lycée à des chercheurs ou des artistes ? Comment rendre les élèves acteurs de la rencontre ?  "
