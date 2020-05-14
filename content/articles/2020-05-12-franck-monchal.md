@@ -1,12 +1,12 @@
 +++
-title = "Franck Monchal : je leur demande de se mouiller "
-draft = true
+title = "Franck Monchal : l'anticonformisme "
+draft = false
 slug = "franck-monchal"
 alias = "/franck-monchal"
-featured = false
+featured = true
 date = "2020-04-26"
 summary = "Franck organise dans son lycée pro des conférences et rencontres. Le but ? Que les élèves osent avoir un avis. "
-chapeau = "Franck Monchal est prof en lycée pro depuis vingt-cinq ans. Pour inciter les élèves à s'exprimer, il multiplie les actions : sorties, rencontres, interviews... à l'extérieur, mais surtout au sein-même du lycée. Pourquoi ouvrir les portes du lycée à des chercheurs ou des artistes ? Comment rendre les élèves acteurs de la rencontre ?  "
+chapeau = "Franck Monchal est prof en lycée professionnel depuis vingt-cinq ans. Pour inciter les élèves à s'exprimer, il multiplie les actions : sorties, rencontres, interviews... à l'extérieur, mais surtout au sein-même du lycée. Pourquoi ouvrir les portes du lycée à des chercheurs ou des artistes ? Comment rendre les élèves acteurs de la rencontre ?  "
 image = "frankmonchal_couv.png"
 +++
 
@@ -28,7 +28,7 @@ Aussi, une particularité du lycée pro c’est qu’on a pas de programme, pas 
 On fait beaucoup de sorties au cinéma, par exemple cette année _The hate you give_, un film autour du mouvement Black lives matter, qui met en scène une jeune fille noire aux États-Unis d’Amérique. On a vu aussi _Papicha_, qui raconte le combat d’une jeune fille dans l’Algérie pendant les années noires. Chaque année on découvre trois ou quatre films, et ça a toujours un grand succès. Du moment que c’est un film concret, qui parle avec des émotions et des personnages qui luttent pour ce qu’ils pensent juste, tout est possible.
 
 
-> _« Le système scolaire les formate à être conformistes, ce qui ne sollicite pas l’intelligence. Moi, je leur demande de se mouiller"_
+> _« Le système scolaire les formate à être conformistes, ce qui ne sollicite pas l’intelligence. Moi, je leur demande de se mouiller »_ 
 
 
 ### Comment prépares-tu les élèves à ces sorties ? Et quelle analyse ensuite ?
@@ -37,8 +37,8 @@ J’essaye toujours de préparer la sortie en expliquant le contexte. Ce sont de
 
 Je leur demande de se prononcer sur les personnages : « est-ce que tu aurais agi pareil » ? C’est difficile pour ces jeunes de se prononcer, parce que le système scolaire leur apprend l’inverse. Il ne faut pas dire ce qu’on pense, il ne faut pas parler à la première personne, il faut être conformiste, avoir une bonne note, dire ce que le prof attend… Le système scolaire les formate à être conformistes, ce qui ne sollicite pas l’intelligence. Moi, je leur demande de se mouiller.
 
-![rencontre Flammes](/img/franckmonchal_illu2.jpg)
-Les élèves à l'issue d'une représentation de F(l)ammes © Franck Monchal
+![rencontre Flammes](/img/franckmonchal_illu2.png)
+Les élèves à l'issue d'une représentation de _F(l)ammes_ © Franck Monchal
 
 
 ### Tu sens qu’ils ont du mal à se prononcer, à donner un avis personnel ?
@@ -61,7 +61,7 @@ Faire venir des personnes extérieures c’est un honneur. Quand on se déplace 
 Et il faut dire que voir des intellectuels débarquer dans un lycée professionnel, c’est comme si un cosmonaute arrivait au milieu de l’Amazonie. Ils ne voient jamais ces gens-là. Il n’y a jamais une chercheuse du CNRS qui se pointe dans leur cité pour faire une conférence ! Et eux n’iraient jamais à une conférence au CNRS. Mais ils le méritent, ils sont capable d’écouter, de comprendre…
 
 
-> _« Voir des intellectuels débarquer dans un lycée professionnel, c’est comme si un cosmonaute arrivait au milieu de l’Amazonie"_
+> _« Voir des intellectuels débarquer dans un lycée professionnel, c’est comme si un cosmonaute arrivait au milieu de l’Amazonie »_
 
 
 ### Comment choisis-tu ces intervenants ?
@@ -80,7 +80,7 @@ C’est que le monde de la culture est fait pour les bourgeois, les classes moye
 
 Ils ne disent jamais que ce n’est pas pour eux. Ça voudrait dire qu’ils mettraient en avant un manque dans leur origine sociale, ce serait trop difficile. En revanche, ils disent « je me suis ennuyé, c’était nul ». Ça m’est arrivé, une fois, pour une pièce. Parce qu’elle manquait de concret. Pour moi, la culture passe avec une histoire humaine.
 
-![rencontre Esther Senot](/img/franckmonchal_illu1.jpg)
+![rencontre Esther Senot](/img/franckmonchal_illu1.png)
 Les élèves avec Esther Senot, survivante des camps d'extermination nazis.
 
 
@@ -99,7 +99,7 @@ La vidéo a donné le pouvoir de la parole : quand un élève est filmé, c’es
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/6CPTd8EIeOA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-Un exemple de vidéo tournée par de élèves elles-mêmes, suite à la découverte du film _Free state of Jones_ (2017). _"Un super succès auprès des élèves, plus de 120 emenés en 3 fois avec un succès à 100% pour un film historique de plus de 2h sur la guerre de sécession et les années d'après."_
+Un exemple de vidéo tournée par de élèves elles-mêmes, suite à la découverte du film _Free state of Jones_ (2017). _"Un super succès auprès des élèves, plus de 120 emenés en 3 fois avec un succès à 100% pour un film historique de plus de 2h sur la guerre de sécession et les années d'après. »_
 
 
 ### Est-ce que tu as toujours eu ce rapport à la culture avec tes élèves ?
@@ -132,7 +132,7 @@ Bien sûr. Une fois que tu travailles comme ça, tu as un autre rapport à l’�
 Juste souligner que tout ça, ce n’est jamais un projet individuel. Dans mon bahut, j’ai au moins deux potes très proches avec qui je monte les projets. Il faut vraiment rencontrer des personnes qui t’aident, parce que le groupe c’est une dynamique et une force.
 
 
-> _« Tous les projets, tous les à-côtés doivent tendre vers un projet professionnel. Mais même un soudeur, ou tout autre élève pro, peut s’intéresser à Shakespeare !"_
+> _« Tous les projets, tous les à-côtés doivent tendre vers un projet professionnel. Mais même un soudeur, ou tout autre élève pro, peut s’intéresser à Shakespeare ! »_  
 
 
 ### Au niveau administration ou direction des lycées où tu as enseigné, tu t’es senti accompagné ?
@@ -155,5 +155,5 @@ Et il y a aussi un bouquin de Vassili Grossman, un écrivain soviétique, _Vie e
 
 #### pour aller plus loin :
 
-Franck récapitule ses nombreuses actions et projet sur son [blog] (https://17891871191719361968.blogspot.com/). Il publie également les chroniques des élèves dans une revue interne au lycée dans lequel il enseigne, appelée Les idéaux de Nadaud, et dont les archives sont accessibles [ici] (https://17891871191719361968.blogspot.com/p/journal-des-eleves-et-des.html)
+Franck récapitule ses nombreuses actions et projet sur son [blog](https://17891871191719361968.blogspot.com/). Il publie également les chroniques des élèves dans une revue interne au lycée dans lequel il enseigne, appelée Les idéaux de Nadaud, et dont les archives sont accessibles [ici](https://17891871191719361968.blogspot.com/p/journal-des-eleves-et-des.html)
 
