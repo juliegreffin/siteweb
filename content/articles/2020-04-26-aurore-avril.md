@@ -5,7 +5,7 @@ slug = "aurore-avril"
 alias = "/aurore-avril"
 date = "2020-04-26"
 featured = false
-summary = "Aurore Avril enseigne la biologie dans un lycée professionnel. Danser quand on est apprenti horticulteur ? Et pourquoi pas ?"
+summary = "Aurore enseigne la biologie dans un lycée professionnel. Danser quand on est apprenti horticulteur ? Et pourquoi pas ?"
 chapeau = "Aurore Avril enseigne la biologie dans un lycée professionnel horticole à Paris. Avec le soutien de ses collègues, elle inscrit les apprentis dans des ateliers danse et théâtre. Un pied de nez à tous ceux qui pensent que les projets artistiques sont réservés aux profs de Français !"
 image = "auroreavril_couv.png"
 +++

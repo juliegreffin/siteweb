@@ -3,8 +3,8 @@ title = "Franck Monchal : l'anticonformisme "
 draft = false
 slug = "franck-monchal"
 alias = "/franck-monchal"
-featured = true
-date = "2020-04-26"
+featured = false
+date = "2020-05-12"
 summary = "Franck organise dans son lycée pro des conférences et rencontres. Le but ? Que les élèves osent avoir un avis. "
 chapeau = "Franck Monchal est prof en lycée professionnel depuis vingt-cinq ans. Pour inciter les élèves à s'exprimer, il multiplie les actions : sorties, rencontres, interviews... à l'extérieur, mais surtout au sein-même du lycée. Pourquoi ouvrir les portes du lycée à des chercheurs ou des artistes ? Comment rendre les élèves acteurs de la rencontre ?  "
 image = "frankmonchal_couv.png"
@@ -28,7 +28,7 @@ Aussi, une particularité du lycée pro c’est qu’on a pas de programme, pas 
 On fait beaucoup de sorties au cinéma, par exemple cette année _The hate you give_, un film autour du mouvement Black lives matter, qui met en scène une jeune fille noire aux États-Unis d’Amérique. On a vu aussi _Papicha_, qui raconte le combat d’une jeune fille dans l’Algérie pendant les années noires. Chaque année on découvre trois ou quatre films, et ça a toujours un grand succès. Du moment que c’est un film concret, qui parle avec des émotions et des personnages qui luttent pour ce qu’ils pensent juste, tout est possible.
 
 
-> _« Le système scolaire les formate à être conformistes, ce qui ne sollicite pas l’intelligence. Moi, je leur demande de se mouiller »_ 
+> _« Le système scolaire les formate à être conformistes, ce qui ne sollicite pas l’intelligence. Moi, je leur demande de se mouiller »_
 
 
 ### Comment prépares-tu les élèves à ces sorties ? Et quelle analyse ensuite ?
@@ -132,7 +132,7 @@ Bien sûr. Une fois que tu travailles comme ça, tu as un autre rapport à l’�
 Juste souligner que tout ça, ce n’est jamais un projet individuel. Dans mon bahut, j’ai au moins deux potes très proches avec qui je monte les projets. Il faut vraiment rencontrer des personnes qui t’aident, parce que le groupe c’est une dynamique et une force.
 
 
-> _« Tous les projets, tous les à-côtés doivent tendre vers un projet professionnel. Mais même un soudeur, ou tout autre élève pro, peut s’intéresser à Shakespeare ! »_  
+> _« Tous les projets, tous les à-côtés doivent tendre vers un projet professionnel. Mais même un soudeur, ou tout autre élève pro, peut s’intéresser à Shakespeare ! »_
 
 
 ### Au niveau administration ou direction des lycées où tu as enseigné, tu t’es senti accompagné ?
