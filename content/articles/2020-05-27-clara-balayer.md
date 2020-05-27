@@ -1,6 +1,6 @@
 +++
 title = "Clara Balayer : un baromètre du lien entre une institution et ses publics "
-draft = true
+draft = false
 slug = "clara-balayer"
 alias = "/clara-balayer"
 featured = false
