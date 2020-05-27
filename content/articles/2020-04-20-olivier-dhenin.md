@@ -4,7 +4,7 @@ draft = false
 slug = "olivier-dhenin"
 date = "2020-04-10"
 featured = false
-summary = "Olivier Dhénin met souvent en scène des enfants et des amateurs. Comment prépare t-on une représentation professionnelle avec ces interprètes moins expérimentés ?"
+summary = "Olivier met souvent en scène des enfants et des amateurs. Comment prépare t-on une représentation professionnelle avec ces interprètes moins expérimentés ?"
 chapeau = "Olivier Dhénin dirige la Compagnie Winterreise, qui mêle théâtre et musique. Il met régulièrement en scène des enfants et des amateurs. Comment prépare t-on une représentation professionnelle avec ces interprètes moins expérimentés ? Quelle force apporte cette jeunesse à ses créations ? "
 image = "olivierdhenin_couv.png"
 +++
