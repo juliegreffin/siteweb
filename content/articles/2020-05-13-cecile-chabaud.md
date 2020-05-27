@@ -64,7 +64,7 @@ Dans les manuels de Français, on étudie de plus en plus les poèmes de la Rés
 Chaque année, j’ai des élèves qui ne savent pas ce qu’est la Shoah, ou alors qui vont plus loin, font preuve d’un antisémitisme assumé, en disant « c’est bien fait pour eux [les Juifs]». Il faut aller contre les préjugés, toute cette méconnaissance, cette cruauté parfois. C’est un travail - comme tout le reste de mon travail - d’apprivoisement.
 
 
->_" Toute la problématique de mon métier réside dans l’apprivoisement : je sais que vous n’aimez pas le Français ou que vous êtes en lutte contre ce que je vais vous apprendre, certains d’entre vous vont être en échec, certains ont même d'autres problèmes, mais l’idée c’est de passer un bon moment. Vous allez forcément apprendre des choses, et vous aurez gagné. "_
+>_«  Toute la problématique de mon métier réside dans l’apprivoisement : je sais que vous n’aimez pas le Français ou que vous êtes en lutte contre ce que je vais vous apprendre, certains d’entre vous vont être en échec, certains ont même d'autres problèmes, mais l’idée c’est de passer un bon moment. Vous allez forcément apprendre des choses, et vous aurez gagné. »_
 
 
 
@@ -118,7 +118,7 @@ Je vais te dire, c’est par Facebook ! J’ai une copine maquilleuse, elle m’
 Mais je crois - si je devais donner un conseil - qu’il ne faut pas hésiter à y aller au culot. Et évidemment ne pas compter son temps… Il ne faut compter que sur soi, et sur les élèves. Il faut croire en son projet, et faire confiance aux élèves, qui sont exceptionnels. Et ne pas hésiter à frapper aux portes. Parce que quand il s’agit d’aider une classe, les gens sont toujours partants… non, pas toujours je dois avouer. Pas les organismes culturels… J’ai été très déçue par beaucoup de musées à qui j’ai envoyé des projets et demandé de l’aide et qui ne m’ont jamais répondu.
 
 
->_" Je crois que le problème de certains musées et lieux de mémoire, c’est qu’ils ont oublié qu’ils sont faits pour le peuple, et pas que pour une petite élite. Beaucoup de structures culturelles françaises sont trop peu disposées à faire entrer l'École dans leurs murs. "_
+>_«  Je crois que le problème de certains musées et lieux de mémoire, c’est qu’ils ont oublié qu’ils sont faits pour le peuple, et pas que pour une petite élite. Beaucoup de structures culturelles françaises sont trop peu disposées à faire entrer l'École dans leurs murs. »_
 
 
 ### Tu te débrouilles donc généralement seule, avec tes collègues et avec les élèves…
