@@ -1,6 +1,6 @@
 +++
 title = "Marie Sorel : une question d'appropriation "
-draft = false
+draft = true
 slug = "marie-sorel"
 alias = "/marie-sorel"
 featured = false
