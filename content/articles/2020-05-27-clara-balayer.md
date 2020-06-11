@@ -73,7 +73,7 @@ Quand je construis ma trame, je pense toute de suite à comment je vais me posit
 
 Après, la médiation te demande une adaptation permanente. Un discours peut fonctionner sur un groupe et désintéresser totalement un autre. Pour cela, je prévois une trame de visite et j'invente des variations de thèmes en fonction des goûts des groupes que je connais et j'adapte aussi mon vocabulaire et mes références.
 
-Aussi, j’aime bien me mettre en danger : si je vois que l’exposition ne me questionne plus, si je récite mon discours par cœur, je sais que je deviens chiante. Alors, je vais essayer de trouver un nouveau point d'accroche de l'exposition, un autre angle sur lequel je vais me documenter à nouveau en essayant aussi de le relier à l'actualité ou à de nouvelles lectures. Cela redevient intéressant pour moi et je retrouve un vrai enthousiasme pour en parler. Pour moi, la clé d’une bonne visite c’est de sentir que le guide prend vraiment du plaisir à partager et qu’il vous embarque par sa passion contagieuse !
+Aussi, j’aime bien me mettre en danger : si je vois que l’exposition ne me questionne plus, si je récite mon discours par cœur, je sais que je deviens lassante. Alors, je vais essayer de trouver un nouveau point d'accroche de l'exposition, un autre angle sur lequel je vais me documenter à nouveau en essayant aussi de le relier à l'actualité ou à de nouvelles lectures. Cela redevient intéressant pour moi et je retrouve un vrai enthousiasme pour en parler. Pour moi, la clé d’une bonne visite c’est de sentir que le guide prend vraiment du plaisir à partager et qu’il vous embarque par sa passion contagieuse !
 
 
 
