@@ -13,6 +13,7 @@ image = "clarabalayer_couv.png"
 ### D’où viens-tu Clara ? 
 
 Côté professionnel, j'ai orienté mon parcours au service des publics car j'ai compris très vite que ce qui m'animait c'était la transmission et le lien à l'autre. Au cours de mes expériences, j'ai exploré les différentes facettes du service des publics : accueil, médiation, programmation événementielle et culturelle puis développement et fidélisation des publics. Dernièrement à la Fondation d’entreprise Ricard, j’ai vraiment pris conscience de l’impact d’une politique de médiation généreuse et sincère pour développer les publics d’une institution.
+
 Côté formation, j’ai un double cursus : universitaire d’abord avec une licences en lettres à la Sorbonne et un master de recherche en sémiologie à l’IFP que j’ai complété avec un master en management culturel à l’ESCP. C'est pendant ma deuxième année de master que je me suis vraiment dit que je voulais travailler dans la culture, en rédigeant un mémoire sur les applications des musées. Depuis, je n'ai cessé de m'intéresser à l'impact du numérique dans le secteur culturel et l’évolution induite de métiers, de logiques, de pratiques et de rapports aux publics.
 
 
@@ -45,14 +46,14 @@ Je me suis demandé plusieurs fois si je ne devais pas suivre des cours d’hist
 
 ### La rencontre avec l’artiste est-elle toujours possible ? 
 
-À la Fondation d’entreprise Ricard, je me suis appliquée à rencontrer artistes et commissaires à chaque nouvelle exposition. Pour moi, c'est nécessaire de rentrer dans la tête du fabricant et de celui qui a mis en scène l'exposition. . Je leur demandais, à l’avance, un temps de discussion, pendant le montage de l’exposition. 
+À la Fondation d’entreprise Ricard, je me suis appliquée à rencontrer artistes et commissaires à chaque nouvelle exposition. Pour moi, c'est nécessaire de rentrer dans la tête du fabricant et de celui qui a mis en scène l'exposition. Je leur demandais, à l’avance, un temps de discussion, pendant le montage de l’exposition. 
 
 J'ai eu la chance d'être soutenue par ma directrice pour ce genre d'initiatives, qui comprenait très bien l'importance de la médiation et qui pouvait convaincre un artiste réticent à se livrer de la nécessité de partager sa propre vision de l'œuvre pour aider les publics à interpréter plus facilement son travail. Ce que j'aimais faire aussi c'est de proposer à l'artiste de le rencontrer une deuxième fois après plusieurs semaines d'exposition. Beaucoup de questions émergaient au fur et à mesure, soit grâce au public, soit parce que  je voulais valider et échanger avec l'artistes sur le parcours de médiation que j'avais construit, sur les connexions entre les œuvres. C'était aussi un moment privilégié pour l'artiste pour comprendre comment son travail était perçu car je lui donnais le retour des visiteurs.
 
 
 ### Au-delà de la rencontre avec l’artiste, comment t’y prends-tu pour plonger dans une œuvre ?
 
-Je commence par regarder le parcours de l’artiste : je lis tout ce que je peux trouver sur sa biographie, l'évolution de son œuvre, ses expositions, ses opinions, etc, 
+Je commence par regarder le parcours de l’artiste : je lis tout ce que je peux trouver sur sa biographie, l'évolution de son œuvre, ses expositions, ses opinions, etc. 
 Puis je contacte les institutions qui l’ont accueilli.e, pour obtenir des ressources pédagogiques, des livrets éducatifs, et comprendre l'angle de cette nouvelle exposition et comment elle se démarque par rapport aux anciennes… Souvent, les artistes me donnent des références : livres, mentors, inspirations, lieux qui leurs sont chers… Je vais alors essayer de me procurer ces films, ces livres, pour trouver un lien avec les œuvres présentées.
 
 J’envisage la médiation comme quelque chose de double, d’abord une partie factuelle, présentation de l’œuvre, de l’artiste. Mais pour moi, une médiation réussie doit aussi questionner, et parfois prend partie. J’aime bien agrémenter mes visites de mon avis personnel, et inviter le public à en faire de même. D'ailleurs, j'adore reprendre leurs interprétations et leurs remarques dans d'autres visites que je donne par la suite. Je trouve que cela rend mon discours moins figé.
@@ -63,12 +64,12 @@ J’ai le sentiment que les expositions que j’ai le mieux expliquées, sont ce
 ### Les artistes sont-ils réceptifs à ta démarche ? 
 
 C’est arrivé que des artistes soient réticents. Ils n’ont pas envie que leur travail soit réduit à un discours, une seule interprétation. Parfois, les artistes ont une vision trop intime de leur œuvre. Il est arrivé qu’on me dise « je te le dis à toi, mais tu ne le répètes pas ». Or c'est souvent ce qu'ils veulent garder secret qui se révèle être le plus intéressant! D'ailleurs, j'adore ponctuer mes visites des anecdotes que me livrent les artistes. Ca rend la visite plus chaleureuse et décalée.
-La jeune génération d'artistes est quand même plus consciente des « bienfaits » de la médiation sur l’appropriation de leurs œuvres et sont très ouverts au dialogue.
+La jeune génération d'artistes est quand même plus consciente des bienfaits de la médiation sur l’appropriation de leurs œuvres et sont très ouverts au dialogue.
 
 
 ### Quand tu te retrouves face au public, pendant la médiation, comment parviens-tu à adapter ton discours ? 
 
-Quand je construis ma trame, je pense toute de suite à comment je vais me positionner dans l'espace, quelle transition je vais faire entre deux œuvres, etc. Mais la première visite est généralement en freestyle total. Même si j'ai toutes les infos en tête, ça ne se passe jamais comme prévu et je finis par improviser… Et c’est en fonction de la première visite  et des premiers retours et questions des visiteurs que je vais adapter mon parcours et ajuster mon discours. 
+Quand je construis ma trame, je pense toute de suite à comment je vais me positionner dans l'espace, quelle transition je vais faire entre deux œuvres etc. Mais la première visite est généralement en freestyle total. Même si j'ai toutes les infos en tête, ça ne se passe jamais comme prévu et je finis par improviser… Et c’est en fonction de la première visite  et des premiers retours et questions des visiteurs que je vais adapter mon parcours et ajuster mon discours. 
 
 Après, la médiation te demande une adaptation permanente. Un discours peut fonctionner sur un groupe et désintéresser totalement un autre. Pour cela, je prévois une trame de visite et j'invente des variations de thèmes en fonction des goûts des groupes que je connais et j'adapte aussi mon vocabulaire et mes références.
 
@@ -78,11 +79,10 @@ Aussi, j’aime bien me mettre en danger : si je vois que l’exposition ne me q
 
 ### On a beaucoup évoqué l’oralité de la médiation, mais il y a beaucoup d’autres formats. Quels sont les formats que tu privilégies ? 
 
-Ça dépend essentiellement des moyens de la structure… 
 
 En tant que visiteuse, j’aime avoir de la documentation. Quand je rentre dans une exposition, je me rue directement sur le livret de salle à disposition, je le lis à voix haute comme une maîtresse d’école. Dans un musée, je ne recherche pas la transcendance, mais la connaissance. Je suis curieuse de découvrir, mais c’est plus de l’ordre de l’intellectuel que de l’émerveillement.
 
-En tant que médiatrice, je fonctionne avec un iPad, où je montre en live les références que j’évoque. Les visiteurs ont souvent honte de dire qu’ils ne connaissent pas tel courant ou tel référence, donc je ne leur laisse pas le choix et leur montre directement. Par exemple, sur la dernière exposition de la Fondation d’entreprise Ricard, Nina Childress avait installé une ré-interprétation flashy du tableau _Un enterrement à Ornans_, de Courbet. J’expliquais sa variation contemporaine tout en montrant l’original sur mon ipad. De cette analyse croisée, je suis arrivée à une visite sous la forme du jeu des 7 erreurs ! C’était un moment très apprécié par les visiteurs !
+En tant que médiatrice, je fonctionne avec un iPad, où je montre en live les références que j’évoque. Les visiteurs ont souvent honte de dire qu’ils ne connaissent pas tel courant ou tel référence, donc je ne leur laisse pas le choix et leur montre directement. Par exemple, sur la dernière exposition de la Fondation d’entreprise Ricard, Nina Childress avait installé une ré-interprétation flashy du tableau _Un enterrement à Ornans_, de Courbet. J’expliquais sa variation contemporaine tout en montrant l’original sur mon iPad. De cette analyse croisée, je suis arrivée à une visite sous la forme du jeu des 7 erreurs... C’était un moment très apprécié par les visiteurs !
 
 
 ![Nina Childress](/img/clarabalayer_illu2.png)
@@ -129,6 +129,6 @@ Il faut donc professionnaliser la médiation, se rendre compte de la valeur des 
 
 ### Pour conclure, quelle œuvre aimerais-tu recommander ? 
 
-Une œuvre dans laquelle j’ai eu la chance de m’immerger, c’est le Jardin des Tarots de Niki de Saint Phalle. C’est un jardin dans la campagne toscane peuplée de sculptures monumentales de l’artiste représentant des personnages de tarot. Une expérience magique à vivre au son des cigales ! 
+Une œuvre dans laquelle j’ai eu la chance de m’immerger, c’est le _Jardin des Tarots_ de Niki de Saint Phalle. C’est un jardin dans la campagne toscane peuplée de sculptures monumentales de l’artiste représentant des personnages de tarot. Une expérience magique à vivre au son des cigales ! 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/fLcmyExFqdM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
