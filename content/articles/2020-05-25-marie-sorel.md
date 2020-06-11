@@ -90,9 +90,7 @@ Je demande à chaque fois à ce que ces productions créatives soient accompagn�
 <p class="article-focus">
 Un exemple d’activité d’appropriation :   
 <i>«Le théâtre, c’est la passion des grands espaces dans une boîte d’allumettes. »</i> 
-
-J’ai fait travailler des élèves sur cet aphorisme du comédien et metteur en scène Olivier Py. J’ai demandé aux élèves de prendre cette définition au pied de la lettre et de représenter une scène de théâtre « dans une boîte d’allumettes ». Ce travail créatif, accompagné d’une note d’intention (choix des matériaux, des couleurs, difficultés rencontrées…), a été l’occasion de réfléchir aux vertus de la miniaturisation, à la matérialité du théâtre (maquette, décor…) et d’initier les élèves à d’autres arts vivants comme le théâtre d’objets.
-</p>
+J’ai fait travailler des élèves sur cet aphorisme du comédien et metteur en scène Olivier Py. J’ai demandé aux élèves de prendre cette définition au pied de la lettre et de représenter une scène de théâtre « dans une boîte d’allumettes ». Ce travail créatif, accompagné d’une note d’intention (choix des matériaux, des couleurs, difficultés rencontrées…), a été l’occasion de réfléchir aux vertus de la miniaturisation, à la matérialité du théâtre (maquette, décor…) et d’initier les élèves à d’autres arts vivants comme le théâtre d’objets. </p>
 
 Cette fameuse note d’intention qui accompagne les productions des élèves et des étudiant.e.s est devenue de plus en plus importante pour moi. Cela permet également de « décentrer » un peu les choses : le produit fini réalisé par les élèves ou les étudiant.e.s passe au second plan et on s’intéresse davantage au processus de création, aux difficultés rencontrées… 
 
