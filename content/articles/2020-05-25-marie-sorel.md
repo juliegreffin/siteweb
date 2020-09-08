@@ -6,9 +6,12 @@ alias = "/marie-sorel"
 featured = false
 date = "2020-05-25"
 summary = "Avec Marie, les élèves étudient ce qu'il y a en amont, et autour du spectacle..."
-chapeau = "Marie Sorel a enseigné au collège, au lycée, et à l'université. Avec ses élèves comme ses étudiants, elle s'intéresse au \"comment ?\" : comment une œuvre se construit-elle ? Pourquoi cette distribution ?... Par le biais d'exercices d'appropriation, ils désacralisent ensemble le mythe de la création pour en étudier les ressorts concrets. Marie collabore également avec des structures culturelles, et n'hésite pas à monter ses propres projets."
 image = "mariesorel_couv1.png"
 +++
+
+{{< chapeau >}}
+Marie Sorel a enseigné au collège, au lycée, et à l'université. Avec ses élèves comme ses étudiants, elle s'intéresse au "comment ?" : comment une œuvre se construit-elle ? Pourquoi cette distribution ?... Par le biais d'exercices d'appropriation, ils désacralisent ensemble le mythe de la création pour en étudier les ressorts concrets. Marie collabore également avec des structures culturelles, et n'hésite pas à monter ses propres projets.
+{{< /chapeau >}}
 
 ### Qui es-tu Marie, quel est ton parcours ? 
 

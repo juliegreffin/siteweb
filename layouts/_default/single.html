@@ -5,9 +5,11 @@
   <h1 class="article-title text-center">{{ .Title }}</h1>
   <img src="/img/{{ .Params.image }}" class="img-fluid
   article-image"></img>
+  {{ with .Params.chapeau }}
   <div class="article-chapeau">
-    {{ (replace .Params.chapeau "\n" "<br />") | safeHTML }}
+    {{ (replace . "\n" "<br />") | safeHTML }}
   </div>
+  {{ end }}
   {{ .Content }}
 </article>
 </div>
