@@ -8,7 +8,7 @@ copyright = "© 2020"
 unsafe= true
 
 [params]
-contact = "contact@relaisculture.com"
+contact = "juliegeffrin+rc[at]gmail.com"
 
 [permalinks]
 articles = "/:slug"
